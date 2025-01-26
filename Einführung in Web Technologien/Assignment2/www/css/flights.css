@@ -1,0 +1,56 @@
+/* Contains both flight list and time vizualisation */
+main {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  background-color: yellow;
+}
+
+/* Container for the flightlist as well as the selectors */
+#flight-div {
+  width: 60%;
+  background-color: #121212;
+}
+
+/* For all flight-divs in the flight-list */
+.flight {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2b2b2b;
+  color: white;
+  font-family: monospace, sans-serif;
+  width: 70%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.flight h2 {
+  color: #6587f0;
+  font-size: 2em;
+  padding-bottom: 10px;
+}
+
+.flight p {
+  padding-bottom: 4px;
+}
+
+.flight img {
+  width: 150px;
+  height: 150px;
+  border-radius: 30px;
+}
+
+@media only screen and (max-width: 1000px) {
+  main {
+    flex-direction: column-reverse;
+  }
+  #flight-div {
+    width: 100%;
+  }
+  .flight {
+    flex-direction: column;
+  }
+}

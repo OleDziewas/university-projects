@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.uniba.wiai.dsg.ajp.assignment3.CustomerIntegrationTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-20T16:12:30" hostname="OLE-PC" time="0.12">
+  <properties/>
+  <testcase name="htmlStatementShouldBeCalculatedAndPrintedCorrectly()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerIntegrationTests" time="0.096"/>
+  <testcase name="statementShouldBeCalculatedAndPrintedCorrectly()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerIntegrationTests" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

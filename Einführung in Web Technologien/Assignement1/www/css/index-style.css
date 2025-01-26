@@ -1,0 +1,109 @@
+@import url(main-style.css);
+
+:root {
+  --corporate-color: #e81026;
+}
+
+* {
+  margin: 10px;
+  margin-top: 5px;
+}
+
+button {
+  display: block;
+  background-color: #e81026;
+  width: 200px;
+  color: #ffffff;
+  padding: 5px;
+  position: absolute;
+  clear: both;
+  height: 50px;
+}
+
+button:hover {
+  background-color: #e87c10;
+}
+
+section {
+  height: 500px;
+}
+
+h1#companyname {
+  font-size: 60px;
+  display: inline-flex;
+}
+
+svg#logo {
+  display: inline-flex;
+  border: none;
+  margin: 0;
+}
+
+section#section1 {
+  background-image: url("../mars-1326108.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+p {
+  text-align: justify;
+}
+
+@media screen and (min-width: 600px) {
+  p.textbaustein {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    border: solid var(--corporate-color) 2px;
+    padding: 5px;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 599px) {
+  p.textbaustein {
+    display: block;
+    border: solid var(--corporate-color) 2px;
+    padding: 5px;
+    width: 100%;
+  }
+}
+
+marquee.news {
+  animation: scroll 10s linear infinite;
+  direction: left;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  background-color: var(--corporate-color);
+  color: var(--main-text-color);
+  height: 30px;
+}
+
+b.news,
+p.news {
+  background-color: var(--corporate-color);
+  color: var(--main-text-color);
+}
+
+.highlight {
+  color: var(--corporate-color);
+  margin: 0;
+  padding: 0;
+}
+
+a#Preisliste {
+  color: var(--corporate-color);
+  margin: 0;
+  padding: 0;
+}
+
+a#Preisliste:hover {
+  color: rgb(177, 187, 233);
+}
+
+.link:hover {
+  color: rgb(177, 187, 233);
+}

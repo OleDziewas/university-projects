@@ -1,0 +1,65 @@
+:root {
+  --moving-square-line__size: 100px;
+  --moving-square-line__color: white;
+  --moving-square-line__moving-square-side: 120px;
+  --moving-square-line__moving-border-width: 30px;
+
+  --moving-square-line__moving-square-offest: calc(
+    var(--moving-square-line__moving-border-width) -
+      var(--moving-square-line__moving-square-side)
+  );
+  --moving-square-line__translate: calc(
+    var(--moving-square-line__size) - 2 *
+      var(--moving-square-line__moving-border-width) +
+      var(--moving-square-line__moving-square-side)
+  );
+
+  --moving-square-line__duration: 0.4s;
+}
+
+.moving-square-line {
+  margin-top: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--debug-size-color);
+}
+
+.moving-square-line__base-square {
+  height: var(--moving-square-line__size);
+  width: var(--moving-square-line__size);
+  position: relative;
+  overflow: hidden;
+}
+
+@keyframes moving-square-line__motion {
+  0% {
+    transform: translate(0, 0);
+  }
+  25% {
+    transform: translate(var(--moving-square-line__translate), 0);
+  }
+  50% {
+    transform: translate(
+      var(--moving-square-line__translate),
+      var(--moving-square-line__translate)
+    );
+  }
+  75% {
+    transform: translate(0, var(--moving-square-line__translate));
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.moving-square-line__inner-square {
+  position: absolute;
+  top: var(--moving-square-line__moving-square-offest);
+  left: var(--moving-square-line__moving-square-offest);
+  background-color: var(--moving-square-line__color);
+  height: var(--moving-square-line__moving-square-side);
+  width: var(--moving-square-line__moving-square-side);
+  animation: moving-square-line__motion var(--moving-square-line__duration)
+    linear infinite;
+}

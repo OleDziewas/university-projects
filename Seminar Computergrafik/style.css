@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.numbers{
+    margin: 30px;
+}
+
+#yaxis {
+    float:left;
+    margin-left: 30px;
+}
+#yaxis p:first-of-type{
+    margin-top: 50px;
+}
+#yaxis p {
+    margin-top: 78px;
+    margin-right: 30px;
+}
+#xaxis {
+    display: flex;
+    gap: 93px;
+    margin-left: 80px;
+}
+label {
+    margin-left: 20px;
+}
+input {
+    width: 70px;
+}
+svg {
+    width:  800px;
+    height: 500px;
+    border: 2px solid black;
+}

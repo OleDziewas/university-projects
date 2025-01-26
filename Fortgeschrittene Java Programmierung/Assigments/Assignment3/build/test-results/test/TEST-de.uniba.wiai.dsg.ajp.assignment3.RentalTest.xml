@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-06-20T16:12:31" hostname="OLE-PC" time="0.017">
+  <properties/>
+  <testcase name="[1] -2" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.001"/>
+  <testcase name="[2] 0" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.003"/>
+  <testcase name="getDiscountShouldBe()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.0"/>
+  <testcase name="getDaysRentedShouldBe()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.0"/>
+  <testcase name="getFrequentRenterPointsShouldBeCalculatedCorrectly()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.0"/>
+  <testcase name="getMovieShouldBe()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.0"/>
+  <testcase name="setDaysRentedShouldBeFifteen()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.0"/>
+  <testcase name="[1] -1.0" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.002"/>
+  <testcase name="[2] 2.0" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.001"/>
+  <testcase name="getChargeShouldCalculateCorrectly()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.001"/>
+  <testcase name="validateMovieShouldThrowIllegalArgumentException()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.001"/>
+  <testcase name="setMovieShouldBeMovie()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.001"/>
+  <testcase name="setDiscountShouldBeZeroPointTwo()" classname="de.uniba.wiai.dsg.ajp.assignment3.RentalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

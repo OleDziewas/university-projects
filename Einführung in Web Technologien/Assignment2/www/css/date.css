@@ -1,0 +1,71 @@
+/* Overall Settings*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* Container for the date-div */
+aside {
+  display: flex;
+  justify-content: center;
+  background-color: #121212;
+  width: 40%;
+}
+
+/* Contains the actual date */
+#date-div {
+  background-color: #3568ff;
+  border-radius: 30px;
+  margin-top: 10vh;
+  width: 70%;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.7vw;
+  color: white;
+  font-family: Impact, sans-serif;
+}
+
+#date-values {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 50%;
+}
+
+#date-values p {
+  font-size: 3.5rem;
+}
+
+#date-types {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+@media only screen and (max-width: 1000px) {
+  aside {
+    width: 100vw;
+  }
+  #date-div {
+    font-size: 5vw;
+    margin-top: 0;
+  }
+  #date-values p {
+    font-size: 3rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #date-values p {
+    font-size: 7.5vw;
+  }
+  #date-div {
+    font-size: 5vw;
+  }
+}

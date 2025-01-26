@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+    <name>Larry Page</name>
+    <firma boersennotiert = "true">Google Inc.</firma>
+    <position>CEO</position>
+</person>

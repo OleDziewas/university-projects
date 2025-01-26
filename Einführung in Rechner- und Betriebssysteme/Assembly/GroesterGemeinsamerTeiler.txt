@@ -1,0 +1,34 @@
+gcd:
+#Vergleichswert 0
+movi r10,0
+
+#Wenn a== 0
+cmpeq r8, r10
+bt returnb
+
+#Falls a!= 0 wird b!=0 getestet
+br vgschleife
+
+schleife:
+#Wenn a >b
+cmpgt r8,r9
+bt minusb
+#Wird ausgeführt falls a<b
+subu r9,r8
+br vgschleife
+
+minusb:
+subu r8,r9
+
+#Vergleich für die Schleife
+vgschleife:
+cmpne r9, r10
+bt schleife
+#Wenn das Programm durchgelaufen ist
+jmp r15
+
+
+#Falls a == 0 ausgeführt wird
+returnb:
+mov r8,r9
+jmp r15  

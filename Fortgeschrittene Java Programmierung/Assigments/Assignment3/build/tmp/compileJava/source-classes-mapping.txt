@@ -1,0 +1,19 @@
+de/uniba/wiai/dsg/ajp/assignment3/ChildrensPrice.java
+ de.uniba.wiai.dsg.ajp.assignment3.ChildrensPrice
+de/uniba/wiai/dsg/ajp/assignment3/Movie.java
+ de.uniba.wiai.dsg.ajp.assignment3.Movie
+ de.uniba.wiai.dsg.ajp.assignment3.Movie$1
+ de.uniba.wiai.dsg.ajp.assignment3.Movie$PriceCodes
+ de.uniba.wiai.dsg.ajp.assignment3.Movie$Resolution
+de/uniba/wiai/dsg/ajp/assignment3/Price.java
+ de.uniba.wiai.dsg.ajp.assignment3.Price
+de/uniba/wiai/dsg/ajp/assignment3/Customer.java
+ de.uniba.wiai.dsg.ajp.assignment3.Customer
+de/uniba/wiai/dsg/ajp/assignment3/Rental.java
+ de.uniba.wiai.dsg.ajp.assignment3.Rental
+de/uniba/wiai/dsg/ajp/assignment3/RegularPrice.java
+ de.uniba.wiai.dsg.ajp.assignment3.RegularPrice
+de/uniba/wiai/dsg/ajp/assignment3/LowBudgetPrice.java
+ de.uniba.wiai.dsg.ajp.assignment3.LowBudgetPrice
+de/uniba/wiai/dsg/ajp/assignment3/NewReleasePrice.java
+ de.uniba.wiai.dsg.ajp.assignment3.NewReleasePrice

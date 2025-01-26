@@ -1,0 +1,58 @@
+main:
+movi r14, 0
+subi r14, 1
+#Basis
+movi r1, 3
+#Exponent
+movi r2, 5
+#Vergleichswert
+movi r7, 0
+mov r8, r2
+movi r2,3
+movi r5, 1
+movi r6, 0
+
+call potenz
+halt
+
+potenz:
+subi r14,2
+stw r15, r14
+
+cmpgt r8, r7
+bt rechne
+ldw r15, r14
+addi r14, 2
+jmp r15
+
+rechne:
+movi r1, 3
+movi r2, 3
+subi r8, 1
+call mul
+ldw r15, r14
+addi r14, 2
+jmp r15
+
+add:
+addu r0, r1
+lsli r1, 1
+lsri r2, 1
+
+mul:
+subi r14,2
+stw r15, r14
+
+movi r4, 1
+and r4, r2
+cmpeq r4, r5
+bt add
+lsli r1, 1
+lsri r2, 1
+cmpeq r2,r6
+bf mul
+
+ldw r15, r14
+addi r14, 2
+
+jmp r15

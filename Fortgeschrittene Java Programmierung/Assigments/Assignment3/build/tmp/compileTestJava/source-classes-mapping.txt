@@ -1,0 +1,16 @@
+de/uniba/wiai/dsg/ajp/assignment3/ChildrensPriceTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.ChildrensPriceTests
+de/uniba/wiai/dsg/ajp/assignment3/LowBudgetPriceTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.LowBudgetPriceTests
+de/uniba/wiai/dsg/ajp/assignment3/NewReleasePriceTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.NewReleasePriceTests
+de/uniba/wiai/dsg/ajp/assignment3/MovieTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.MovieTests
+de/uniba/wiai/dsg/ajp/assignment3/RentalTest.java
+ de.uniba.wiai.dsg.ajp.assignment3.RentalTest
+de/uniba/wiai/dsg/ajp/assignment3/CustomerTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.CustomerTests
+de/uniba/wiai/dsg/ajp/assignment3/RegularPriceTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.RegularPriceTests
+de/uniba/wiai/dsg/ajp/assignment3/CustomerIntegrationTests.java
+ de.uniba.wiai.dsg.ajp.assignment3.CustomerIntegrationTests

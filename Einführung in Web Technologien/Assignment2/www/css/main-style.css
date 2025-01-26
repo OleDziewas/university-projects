@@ -1,0 +1,41 @@
+/* Overall Settings*/
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: #121212;
+}
+
+header {
+  background-color: #121212;
+  width: 100vw;
+  height: 25vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#logo {
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  border-radius: 30px;
+  margin-left: 9%;
+}
+#logotext {
+  padding-left: 2%;
+  color: white;
+  font-family: monospace;
+}
+
+#logotext h1 {
+  font-size: 6vw;
+  margin-top: 40px;
+}
+#logotext p {
+  font-size: 1.5em;
+  padding-left: 3px;
+}

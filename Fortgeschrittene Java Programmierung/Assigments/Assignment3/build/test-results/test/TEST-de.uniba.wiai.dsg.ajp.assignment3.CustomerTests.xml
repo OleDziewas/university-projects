@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-06-20T16:12:30" hostname="OLE-PC" time="0.934">
+  <properties/>
+  <testcase name="settedNameShouldBePeter()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.001"/>
+  <testcase name="rentalWithoutMovieShouldThrowNullPointerExceptionInHtmlStatement()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.769"/>
+  <testcase name="statementShouldCallMethodsInCorrectOrder()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.107"/>
+  <testcase name="customerNameShouldBeKunde()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.001"/>
+  <testcase name="rentalWithoutMovieShouldThrowNullPointerExceptionInStatement()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.002"/>
+  <testcase name="listsOfRentalsShouldBeIdentical()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.0"/>
+  <testcase name="htmlStatementShouldCallAllGivenMethods()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.006"/>
+  <testcase name="statementFormatShouldBeDisplayedCorrectly()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.005"/>
+  <testcase name="initializeValueShouldBeAdrian()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.0"/>
+  <testcase name="rentalWithoutDaysRentedSetShouldThrowIllegalArgumentExceptionInHtmlStatement()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.002"/>
+  <testcase name="rentalWithoutDaysRentedSetShouldThrowIllegalArgumentException()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.002"/>
+  <testcase name="customerWithoutNameShouldThrowIllegalArgumentException()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.004"/>
+  <testcase name="customerWithNullNameShouldThrowIllegalArgumentException()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.002"/>
+  <testcase name="htmlStatementFormatShouldBeDisplayedCorrectly()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.005"/>
+  <testcase name="statementShouldCallAllGivenMethods()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.006"/>
+  <testcase name="htmlStatementShouldCallMethodsInCorrectOrder()" classname="de.uniba.wiai.dsg.ajp.assignment3.CustomerTests" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

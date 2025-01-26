@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" tests="49" skipped="0" failures="0" errors="0" timestamp="2021-06-20T16:12:31" hostname="OLE-PC" time="0.195">
+  <properties/>
+  <testcase name="[1] REGULAR, 2, 1" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.002"/>
+  <testcase name="[2] CHILDRENS, 2, 0" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[3] LOW_BUDGET, 2, 1" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[4] NEW_RELEASE, 2, 2" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[5] REGULAR, 7, 1" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[6] CHILDRENS, 7, 0" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.003"/>
+  <testcase name="[7] LOW_BUDGET, 7, 1" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[8] NEW_RELEASE, 7, 2" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[1] REGULAR" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.003"/>
+  <testcase name="[2] CHILDRENS" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[3] LOW_BUDGET" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[4] NEW_RELEASE" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[1] ULTRA_HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.003"/>
+  <testcase name="[2] HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[1] dummyString" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[2] GoodFellas" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.002"/>
+  <testcase name="[3] Cars" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[4] Sharknado" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.003"/>
+  <testcase name="[5] Once upon a time in Hollywood" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.002"/>
+  <testcase name="[1] GoodFellas, REGULAR, ULTRA_HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[2] Cars, CHILDRENS, HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[3] Sharknado, LOW_BUDGET, HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[4] Once upon a time in Hollywood, NEW_RELEASE, ULTRA_HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="getChargeReturnTypeIsCorrect()" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.032"/>
+  <testcase name="[1] null, REGULAR, ULTRA_HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.002"/>
+  <testcase name="[2] Cars, null, HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[3] Sharknado, LOW_BUDGET, null" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[1] dummystring, CHILDRENS, HD, 2, 1.5" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[2] dummystring, NEW_RELEASE, HD, 2, 6" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[3] dummystring, LOW_BUDGET, HD, 2, 1.5" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[4] dummystring, REGULAR, HD, 2, 2" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[5] dummystring, CHILDRENS, ULTRA_HD, 7, 9.5" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[6] dummystring, NEW_RELEASE, ULTRA_HD, 7, 23" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[7] dummystring, LOW_BUDGET, ULTRA_HD, 7, 6" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[8] dummystring, REGULAR, ULTRA_HD, 7, 11.5" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="ThrowsIllegalArgumentExceptionInGetChargeGivenAnInvalidParameter()" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="ThrowsIllegalArgumentInGetFrequentRenterPointsGivenAnInvalidParameter()" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="ThrowsIllegalArgumentInSetPriceCodeGivenAnInvalidParameter()" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[1] dummyString" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.004"/>
+  <testcase name="[2] GoodFellas" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[3] Cars" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[4] Sharknado" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.005"/>
+  <testcase name="[5] Once upon a time in Hollywood" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.003"/>
+  <testcase name="[1] REGULAR" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.0"/>
+  <testcase name="[2] CHILDRENS" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.017"/>
+  <testcase name="[3] LOW_BUDGET" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.002"/>
+  <testcase name="[4] NEW_RELEASE" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[1] ULTRA_HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <testcase name="[2] HD" classname="de.uniba.wiai.dsg.ajp.assignment3.MovieTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

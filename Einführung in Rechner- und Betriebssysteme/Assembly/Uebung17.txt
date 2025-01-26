@@ -1,0 +1,43 @@
+movi r0, 1
+lsli r0, 7
+subi r0, 8
+movi r1, 1
+stw r1, r0, 0
+movi r1, 2
+stw r1, r0, 1
+movi r1, 3
+stw r1, r0, 2
+movi r1, 4
+stw r1, r0, 3
+
+movi r5, 1
+movi r6, 0
+
+bseti r14, 7
+subi r14, 8
+
+movi r0,0
+ldw r1, r14, 0
+ldw r2, r14,2
+call mul
+ldw r1, r14, 1
+ldw r2, r14, 3
+call mul
+halt
+
+
+add:
+addu r0, r1
+lsli r1, 1
+lsri r2, 1
+
+mul:
+movi r4, 1
+and r4, r2
+cmpeq r4, r5
+bt add
+lsli r1, 1
+lsri r2, 1
+cmpeq r2,r6
+bf mul
+jmp r15

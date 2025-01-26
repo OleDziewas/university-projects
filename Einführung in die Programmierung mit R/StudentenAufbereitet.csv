@@ -1,0 +1,532 @@
+"Alter";"Geschlecht";"Semester";"Studienrichtung";"Bundesland";"Mathenote";"PCBesitz";"Friseur";"Sport";"Vegetarier";"Raucher";"Wochenarbeitszeit";"Statistikinteresse";"WichtigkeitStatistik";"Groesse";"Gewicht"
+22;"weiblich";2;"EuWi";"BY";"3";"FALSE";75;8;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";170;75
+22;"m‰nnlich";2;"EuWi";"BY";"2";"TRUE";15;10;"Nein";"Nein";0;"stark";"gar nicht";164;68
+28;"weiblich";3;"BWL";"BY";"4";"FALSE";12;2;"Nein";"Nein";0;"stark";"wenig wichtig";169;74
+20;"weiblich";2;"EuWi";"BY";"2";"TRUE";21;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";198;104
+22;"weiblich";2;"EuWi";"BY";"3";"FALSE";12;1;"Nein";"Nein";16;"sehr stark";"wenig wichtig";174;78
+20;"m‰nnlich";2;"EuWi";"BY";"3";"FALSE";14;0;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";197;98
+22;"weiblich";2;"EuWi";"BY";"4";"TRUE";40;3;"Nein";"Nein";0;"m‰ﬂig";"wichtig";169;76
+24;"weiblich";1;"Anderes";"BB";"1";"FALSE";10;5;"Nein";"Ja";10;"stark";"m‰ﬂig wichtig";184;88
+21;"weiblich";2;"EuWi";"HH";"4";"TRUE";30;0;"Nein";"Nein";0;"stark";"wenig wichtig";188;92
+20;"weiblich";1;"SOZ";"SN";"4";"FALSE";25;1;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";169;73
+21;"m‰nnlich";1;"SOZ";"BY";"3";"TRUE";15;2;"Nein";"Ja";0;"m‰ﬂig";"sehr wichtig";200;104
+22;"weiblich";1;"SOZ";"BY";"4";"TRUE";45;2;"Nein";"Ja";0;"m‰ﬂig";"wenig wichtig";201;107
+22;"m‰nnlich";2;"POL";"BY";"3";"FALSE";10;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";174;82
+23;"m‰nnlich";1;"WiP‰d";"BY";"3";"TRUE";10;6;"Nein";"Nein";10;"sehr stark";"m‰ﬂig wichtig";158;61
+20;"m‰nnlich";1;"WI";"BY";"3";"TRUE";10;3;"Nein";"Nein";6;"stark";"wichtig";190;96
+22;"weiblich";2;"SOZ";"BE";"5";"TRUE";60;1;"Nein";"Ja";2;"sehr stark";"wichtig";165;68
+21;"weiblich";2;"SOZ";"BY";"5";"TRUE";25;2;"Nein";"Nein";8;"sehr stark";"m‰ﬂig wichtig";156;61
+20;"weiblich";2;"POL";"BY";"3";"TRUE";40;7;"Ja";"Ja";10;"stark";"m‰ﬂig wichtig";196;103
+21;"weiblich";2;"POL";"BY";"3";"FALSE";10;5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";196;100
+21;"weiblich";2;"SOZ";NA;"5";"TRUE";13;7;"Nein";"Nein";0;"stark";"wichtig";170;74
+24;"weiblich";1;"WI";"BB";"2";"TRUE";NA;2;"Nein";"Nein";0;"m‰ﬂig";"sehr wichtig";188;92
+22;"m‰nnlich";2;"POL";"SN";"4";"TRUE";8;1,5;"Nein";"Ja";0;"sehr stark";"wichtig";172;77
+22;"weiblich";2;"EuWi";"HE";"2";"TRUE";0;3;"Nein";"Nein";4;"m‰ﬂig";"sehr wichtig";198;107
+22;"m‰nnlich";2;"WI";"NW";"2";"TRUE";15;8;"Nein";"Nein";0;"m‰ﬂig";"wichtig";195;102
+22;"m‰nnlich";2;"BWL";"BY";"2";"FALSE";15;3;"Nein";"Nein";6;"wenig";"wichtig";161;66
+23;"m‰nnlich";2;"BWL";"BW";"3";"TRUE";25;6;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";177;83
+21;"m‰nnlich";2;"BWL";"HE";"4";"TRUE";7;3;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";179;80
+24;"m‰nnlich";2;"SOZ";"BY";"4";"TRUE";12;10;"Nein";"Nein";0;"stark";"wichtig";163;66
+27;"m‰nnlich";3;"WiP‰d";"BY";"4";"FALSE";11;2;"Nein";"Nein";4;"sehr stark";"wichtig";180;83
+21;"m‰nnlich";1;"BWL";"NW";"3";"TRUE";30;3;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";189;96
+24;"m‰nnlich";2;"BWL";"BY";"5";"TRUE";12,5;3,5;"Nein";"Ja";NA;"sehr stark";"wichtig";193;99
+21;"m‰nnlich";2;"BWL";"BY";"3";"FALSE";12;5,5;"Nein";"Ja";0;"stark";"wichtig";183;90
+22;"m‰nnlich";2;"EuWi";"NW";"3";"TRUE";20;3;"Nein";"Ja";NA;"stark";"wenig wichtig";201;110
+21;"m‰nnlich";2;"WI";"BY";"2";"TRUE";10;3;"Nein";"Nein";8;"m‰ﬂig";"m‰ﬂig wichtig";204;110
+21;"weiblich";2;"WI";"BY";"3";"TRUE";20;2;"Nein";"Nein";NA;"stark";"wenig wichtig";171;75
+21;"weiblich";2;"SOZ";"BW";"4";"TRUE";60;2;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";189;93
+22;"weiblich";2;"SOZ";"BW";"4";"TRUE";50;2;"Nein";"Nein";0;"stark";"gar nicht";185;89
+21;"weiblich";2;"SOZ";"NW";"4";"TRUE";23;2;"Nein";"Nein";1;"stark";"wichtig";180;85
+31;"weiblich";2;"SOZ";"Ausland";"4";"TRUE";50;5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";168;73
+21;"m‰nnlich";1;"POL";"BE";"3";"TRUE";13;3;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";170;76
+23;"m‰nnlich";1;"POL";"BE";"3";"FALSE";0;1,5;"Nein";"Ja";NA;"sehr stark";"wenig wichtig";202;109
+23;"weiblich";1;"POL";"BW";"5";"FALSE";13;2;"Nein";"Ja";8;"m‰ﬂig";"wichtig";182;90
+23;"weiblich";1;"POL";"NI";"5";"TRUE";32;2;"Nein";"Ja";0;"sehr stark";"m‰ﬂig wichtig";167;73
+23;"m‰nnlich";1;"POL";"BW";"3";"FALSE";15;2;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";167;73
+21;"m‰nnlich";1;"POL";"BY";"2";"TRUE";8;7;"Nein";"Nein";0;"m‰ﬂig";"wichtig";162;72
+22;"weiblich";2;"SOZ";"BY";"2";"TRUE";0;4;"Ja";"Nein";0;"m‰ﬂig";"wichtig";158;64
+20;"m‰nnlich";2;"SOZ";"Ausland";"4";"TRUE";0;4;"Nein";"Ja";NA;"sehr stark";"wichtig";192;97
+22;"m‰nnlich";2;"SOZ";"Ausland";"4";"FALSE";0;0;"Ja";"Nein";0;"stark";"wichtig";199;103
+24;"m‰nnlich";2;"SOZ";"BY";"5";"TRUE";15;0;"Nein";"Ja";15;"m‰ﬂig";"m‰ﬂig wichtig";192;98
+20;"weiblich";2;"SOZ";"TH";"2";"FALSE";0;2;"Nein";"Ja";NA;"wenig";"wichtig";168;71
+23;"weiblich";2;"WI";"BY";"3";"TRUE";16;3;"Nein";"Nein";1;"sehr stark";"m‰ﬂig wichtig";155;60
+22;"weiblich";2;"WI";"BY";"3";"TRUE";25;1;"Nein";"Nein";2;"stark";"wenig wichtig";179;83
+21;"weiblich";2;"EuWi";"BY";"2";"TRUE";0;2;"Ja";"Nein";0;"stark";"m‰ﬂig wichtig";150;57
+22;"m‰nnlich";2;"SOZ";"NW";"5";"TRUE";0;0;"Ja";"Ja";0;NA;"m‰ﬂig wichtig";192;98
+19;"weiblich";2;"BWL";"TH";"4";"TRUE";50;1;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";157;63
+21;"weiblich";2;"BWL";"BY";"4";"TRUE";60;6;"Nein";"Ja";NA;"stark";"m‰ﬂig wichtig";151;57
+21;"m‰nnlich";2;"EuWi";"BW";"3";"TRUE";12;3;"Nein";"Nein";NA;"m‰ﬂig";"wichtig";194;101
+27;"weiblich";2;"SOZ";"BY";"5";"FALSE";30;2;"Nein";"Ja";0;"sehr stark";"wenig wichtig";172;78
+23;"weiblich";2;"SOZ";"BW";"4";"FALSE";35;2;"Nein";"Ja";NA;"sehr stark";"sehr wichtig";179;83
+23;"weiblich";2;"SOZ";"BY";"5";"TRUE";0;2;"Nein";"Ja";0;"m‰ﬂig";"wenig wichtig";193;97
+23;"m‰nnlich";4;"SOZ";"BY";"3";"TRUE";18;1;"Nein";"Ja";2;"sehr stark";"wenig wichtig";186;89
+22;"weiblich";4;"SOZ";"HE";"4";"TRUE";20;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";155;60
+24;"m‰nnlich";1;"SOZ";"NW";"4";"TRUE";0;5;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";169;72
+20;"m‰nnlich";2;"SOZ";"SN";"5";"FALSE";17;2;"Nein";"Nein";3;"stark";"wichtig";162;71
+21;"m‰nnlich";1;"BWL";"BY";"5";"TRUE";8;2;"Nein";"Nein";0;"stark";"wichtig";168;71
+NA;"weiblich";2;"SOZ";"BW";"4";"TRUE";20;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";171;78
+22;"weiblich";2;"Anderes";"NW";"1";"FALSE";15;2;"Ja";"Nein";0;"stark";"gar nicht";166;73
+21;"weiblich";2;"BWL";"HE";"3";"TRUE";45;1;"Nein";"Ja";8;"stark";"wenig wichtig";153;60
+21;"m‰nnlich";1;"POL";"BY";"5";"TRUE";15;3;"Nein";"Nein";NA;"stark";"sehr wichtig";193;99
+22;"m‰nnlich";1;"BWL";"BW";"5";"FALSE";20;1;"Nein";"Nein";NA;"stark";"wichtig";164;68
+21;"weiblich";2;"SOZ";"BY";"3";"TRUE";23;4;"Nein";"Nein";2;"stark";"wichtig";151;57
+24;"weiblich";1;"SOZ";"BY";"4";"FALSE";13;2,5;"Nein";"Nein";0;"sehr stark";"wichtig";160;67
+19;"weiblich";2;"BWL";"TH";"4";"FALSE";25;4;"Nein";"Ja";12;"stark";"wenig wichtig";154;58
+23;"weiblich";2;"BWL";"BY";"2";"TRUE";30;4;"Nein";"Nein";20;"stark";"m‰ﬂig wichtig";186;92
+24;"weiblich";2;"WiP‰d";"BY";"3";"TRUE";0;5;"Nein";"Nein";2;"stark";"wichtig";199;104
+22;"weiblich";2;"WiP‰d";"BY";"3";"FALSE";70;1;"Nein";"Ja";6;"stark";"wenig wichtig";170;76
+20;"weiblich";2;"WiP‰d";"BY";"2";"TRUE";60;4;"Nein";"Nein";0;"stark";"wichtig";167;69
+24;"weiblich";6;"BWL";"BB";"4";"TRUE";50;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";181;83
+20;"m‰nnlich";2;"SOZ";"BW";"4";"TRUE";10;4;"Nein";"Nein";25;"stark";"sehr wichtig";159;65
+21;"weiblich";2;"BWL";"BY";"3";"TRUE";40;1,5;"Nein";"Nein";5;"m‰ﬂig";"wichtig";195;96
+25;"weiblich";2;"EuWi";"BY";"4";"TRUE";80;3;"Nein";"Ja";15;"stark";"m‰ﬂig wichtig";154;59
+24;"m‰nnlich";2;"SOZ";"BW";"4";"FALSE";15;2;"Nein";"Nein";1;"m‰ﬂig";"m‰ﬂig wichtig";157;60
+20;"weiblich";1;"POL";"HE";"2";"TRUE";0;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";151;58
+20;"m‰nnlich";1;"POL";"BY";"3";"TRUE";12;2,5;"Nein";"Nein";0;"sehr stark";"wichtig";191;94
+20;"weiblich";2;"BWL";"BW";"2";"TRUE";25;1;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";197;102
+21;"weiblich";2;"BWL";"BY";"5";"TRUE";65;2;"Nein";"Ja";0;"sehr stark";"wichtig";166;71
+22;"m‰nnlich";2;"BWL";"BY";"5";"TRUE";11;3;"Nein";"Nein";0;"stark";"wichtig";200;106
+20;"m‰nnlich";2;"BWL";"BY";"3";"TRUE";15;3;"Nein";"Nein";5;"stark";"wichtig";163;67
+22;"m‰nnlich";2;"BWL";"BY";"5";"FALSE";8,95;1;"Nein";"Nein";15;"stark";"wenig wichtig";200;104
+21;"weiblich";2;"SOZ";"BY";"3";"TRUE";12;1;"Nein";"Nein";6;"stark";"wichtig";176;79
+22;"m‰nnlich";2;"BWL";"BY";"3";"TRUE";12;5;"Nein";"Nein";4;"stark";"m‰ﬂig wichtig";170;73
+22;"weiblich";3;"BWL";"NI";"3";"FALSE";50;0;"Nein";"Nein";0;"sehr stark";"wichtig";192;96
+20;"weiblich";2;"BWL";"NI";"4";"FALSE";20;1;"Nein";"Ja";NA;"sehr stark";"m‰ﬂig wichtig";172;75
+23;"m‰nnlich";2;"POL";"BW";"3";"TRUE";15;0;"Nein";"Ja";10;"stark";"m‰ﬂig wichtig";165;71
+21;"weiblich";2;"BWL";"BY";"6";"FALSE";74,8;2;"Nein";"Nein";0;"sehr stark";"wichtig";182;87
+21;"m‰nnlich";2;"BWL";"BY";"2";"FALSE";13;8;"Nein";"Nein";2;"wenig";"wenig wichtig";175;83
+20;"m‰nnlich";2;"EuWi";"BY";"1";"TRUE";5;1;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";166;70
+20;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";8,95;8;"Nein";"Ja";0;"sehr stark";"wenig wichtig";203;106
+20;"weiblich";2;"BWL";"BY";"3";"TRUE";80;2;"Nein";"Nein";16;"sehr stark";"wenig wichtig";194;99
+20;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";2;10;"Nein";"Nein";5;"stark";"wichtig";172;79
+22;"m‰nnlich";2;"POL";"BY";"3";"TRUE";11;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";204;108
+21;"m‰nnlich";2;"POL";"BW";"4";"FALSE";12;1;"Nein";"Nein";2;"stark";"m‰ﬂig wichtig";190;98
+23;"m‰nnlich";2;"POL";"BW";"3";"FALSE";12;1,5;"Nein";"Nein";12,5;"stark";"wenig wichtig";188;89
+23;"m‰nnlich";2;"POL";"RP";"4";"FALSE";12;0,5;"Nein";"Ja";10;"stark";"m‰ﬂig wichtig";195;99
+23;"m‰nnlich";2;"WI";"BY";"3";"TRUE";7;2;"Nein";"Ja";8;"m‰ﬂig";"wenig wichtig";200;103
+21;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";30;10;"Nein";"Nein";8;"stark";"wichtig";192;100
+22;"m‰nnlich";2;"BWL";"BY";"5";"TRUE";10;4;"Nein";"Nein";14;"sehr stark";"wichtig";160;64
+22;"m‰nnlich";2;"BWL";"HE";"3";"FALSE";14;1;"Nein";"Nein";0;"stark";"wichtig";171;77
+21;"m‰nnlich";2;"SOZ";"Ausland";"5";"TRUE";15;2;"Ja";"Ja";0;"stark";"wichtig";176;80
+21;"m‰nnlich";2;"SOZ";"Ausland";"4";"TRUE";15;4;"Nein";"Nein";0;"sehr stark";"wichtig";193;99
+25;"m‰nnlich";1;"Anderes";"BY";"3";NA;12;7;"Nein";"Nein";14;"stark";"m‰ﬂig wichtig";152;58
+23;"weiblich";6;"EuWi";"HE";"4";"FALSE";20;3;"Nein";"Nein";0;"m‰ﬂig";"wenig wichtig";191;91
+22;"m‰nnlich";2;"WiP‰d";"BY";"5";"TRUE";10;2;"Nein";"Ja";0;"stark";"wichtig";185;90
+21;"weiblich";1;"BWL";"BY";"3";"TRUE";12;5;"Nein";"Nein";0;"m‰ﬂig";"wichtig";201;107
+22;"weiblich";2;"WiP‰d";"BY";"3";"TRUE";0;4,5;"Nein";"Ja";8;"sehr stark";"m‰ﬂig wichtig";168;72
+22;"m‰nnlich";1;"BWL";"BY";"2";"TRUE";0;4;"Nein";"Nein";0;"stark";"wenig wichtig";187;92
+21;"weiblich";1;"BWL";"HE";"3";"TRUE";15;2;"Nein";"Nein";12;"stark";"m‰ﬂig wichtig";183;89
+21;"weiblich";1;"BWL";"BY";"4";"FALSE";23;2;"Ja";"Nein";8;"stark";"m‰ﬂig wichtig";164;73
+21;"m‰nnlich";1;"BWL";"NI";"2";"FALSE";12;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";163;68
+22;"weiblich";2;"EuWi";"NW";"1";"FALSE";13;3;"Nein";"Ja";25;"m‰ﬂig";"wichtig";202;106
+21;"m‰nnlich";1;"SOZ";"RP";"3";"TRUE";16;2;"Nein";"Ja";0;"stark";"wichtig";162;71
+21;"m‰nnlich";2;"BWL";"NI";"2";"FALSE";12;8;"Nein";"Nein";10;"stark";"wichtig";173;82
+22;"weiblich";2;"BWL";"BW";"2";"FALSE";11;4;"Nein";"Nein";0;"stark";"wichtig";184;92
+21;"weiblich";2;"SOZ";"BY";"4";"TRUE";40;6;"Nein";"Nein";15;"stark";"wichtig";178;82
+20;"weiblich";2;"EuWi";"HE";"4";"TRUE";25;2;"Nein";"Ja";0;"sehr stark";"wichtig";198;106
+22;"weiblich";2;"BWL";"HE";"5";"TRUE";27;0;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";195;101
+22;"weiblich";2;"BWL";"BY";"5";"TRUE";50;4;"Nein";"Ja";0;"sehr stark";"wichtig";196;100
+22;"weiblich";4;"EuWi";"BY";"3";"TRUE";25;2;"Nein";"Nein";4;"stark";"wichtig";185;91
+22;"weiblich";4;"EuWi";"BW";"4";NA;40;2;"Nein";"Nein";NA;"stark";"wenig wichtig";151;54
+20;"m‰nnlich";2;"BWL";"TH";"3";"FALSE";14;5;"Nein";"Nein";0;"stark";"wenig wichtig";177;79
+22;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";19;8;"Nein";"Nein";0;"sehr stark";"sehr wichtig";154;58
+25;"m‰nnlich";2;"WiP‰d";"BY";"4";"FALSE";15;5;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";159;63
+23;"weiblich";1;"SOZ";"BY";"3";"TRUE";90;2;"Nein";"Ja";25;"stark";"wichtig";178;81
+21;"m‰nnlich";2;"POL";"BE";"2";"FALSE";16;0;"Nein";"Ja";0;"m‰ﬂig";"wichtig";176;80
+21;"weiblich";2;"SOZ";"BY";"3";"FALSE";24;1;"Nein";"Ja";12;"stark";"wichtig";197;101
+20;"weiblich";2;"SOZ";"Ausland";"3";"FALSE";15;0;"Nein";"Ja";0;"m‰ﬂig";"wichtig";170;77
+26;"weiblich";2;"SOZ";"BY";"4";"FALSE";50;1;"Nein";"Ja";10;"wenig";"sehr wichtig";191;94
+24;"weiblich";2;"BWL";"SN";"4";"FALSE";45;3;"Nein";"Ja";0;"m‰ﬂig";"wichtig";153;58
+21;"m‰nnlich";1;"POL";"HE";"3";"TRUE";14;10;"Nein";"Nein";0;"gar nicht";"wichtig";154;63
+21;"m‰nnlich";1;"POL";"NI";"3";"FALSE";0;4;"Nein";"Nein";NA;"stark";"wichtig";205;109
+22;"weiblich";2;"SOZ";"BY";"2";"TRUE";0;4;"Ja";"Ja";NA;"stark";"sehr wichtig";150;58
+21;"weiblich";2;"POL";"HH";"2";"TRUE";25;2;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";175;79
+22;"m‰nnlich";2;"POL";"BY";"3";"FALSE";12;2;"Nein";"Nein";10;"stark";"sehr wichtig";192;100
+21;"m‰nnlich";2;"POL";"BW";"4";"FALSE";10;6;"Nein";"Nein";2;"sehr stark";"wichtig";205;112
+21;"m‰nnlich";2;"POL";"NI";"4";"FALSE";14,5;8;"Nein";"Nein";NA;"stark";"m‰ﬂig wichtig";153;58
+20;"m‰nnlich";2;"POL";"BY";"4";"TRUE";12;5;"Nein";"Nein";0;"stark";"wenig wichtig";184;88
+21;"weiblich";2;"EuWi";"BY";"2";"TRUE";30;4;"Nein";"Ja";3;"stark";"m‰ﬂig wichtig";154;55
+22;"weiblich";2;"EuWi";"BY";"3";"TRUE";20;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";170;73
+23;"m‰nnlich";2;"BWL";"NW";"3";"TRUE";0;10;"Nein";"Ja";5;"stark";"wichtig";169;73
+21;"m‰nnlich";2;"BWL";"BY";"5";"FALSE";13;0;"Nein";"Nein";4;"m‰ﬂig";"wenig wichtig";197;106
+21;"weiblich";2;"BWL";"RP";"4";"TRUE";36;2;"Nein";"Nein";0;"stark";"wichtig";196;104
+21;"weiblich";2;"BWL";"BY";"5";"TRUE";45;4;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";174;78
+NA;"m‰nnlich";2;"BWL";"BW";"4";"TRUE";0;0;"Nein";"Ja";20;"stark";"wenig wichtig";198;104
+21;"weiblich";2;"BWL";"BY";"4";"FALSE";63;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";176;79
+21;"weiblich";4;"BWL";"NI";"2";"TRUE";80;2;"Ja";"Nein";0;"stark";"wenig wichtig";153;58
+21;"weiblich";2;"BWL";"BY";"2";"TRUE";21;3;"Nein";"Nein";2;"m‰ﬂig";"gar nicht";196;101
+21;"weiblich";2;"BWL";"TH";"2";"FALSE";25;0;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";203;107
+24;"weiblich";2;"BWL";"BY";"2";"FALSE";15;0;"Nein";"Nein";8;"m‰ﬂig";"m‰ﬂig wichtig";178;84
+30;"m‰nnlich";3;"WiP‰d";"BY";"3";"TRUE";NA;6;"Nein";"Nein";0;"stark";"wenig wichtig";151;57
+21;"weiblich";4;"EuWi";"BE";"3";"TRUE";27;2;"Nein";"Nein";2;"m‰ﬂig";"wenig wichtig";163;71
+20;"m‰nnlich";2;"POL";"NI";"3";"FALSE";11;2;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";176;86
+25;"m‰nnlich";1;"WI";"BB";"4";"TRUE";15;6;"Nein";"Ja";15;"wenig";"m‰ﬂig wichtig";189;95
+NA;"m‰nnlich";2;"WI";"BY";"5";"FALSE";30;6;"Nein";"Nein";10;"m‰ﬂig";"wichtig";201;104
+22;"m‰nnlich";2;"WI";"BW";"5";"TRUE";25;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";172;75
+21;"weiblich";2;"POL";"BW";"5";"FALSE";49;6;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";185;91
+23;"weiblich";2;"SOZ";"BY";"3";"TRUE";20;3;"Ja";"Nein";6;"stark";"sehr wichtig";177;85
+22;"weiblich";2;"BWL";"BY";"4";"TRUE";60;2;"Nein";NA;15;"stark";"m‰ﬂig wichtig";172;77
+20;"weiblich";2;"BWL";"BY";"4";"TRUE";10;3;"Nein";"Ja";3;"sehr stark";"wenig wichtig";187;92
+20;"weiblich";2;"EuWi";"BW";"3";"FALSE";50;3;"Nein";"Ja";0;"stark";"sehr wichtig";193;97
+21;"weiblich";2;"EuWi";"BY";"3";"FALSE";40;2;"Ja";"Nein";0;"stark";"m‰ﬂig wichtig";176;82
+23;"weiblich";2;"BWL";"BY";"4";"TRUE";20;2;"Nein";"Nein";0;NA;NA;175;84
+21;"m‰nnlich";2;"EuWi";"TH";"4";"TRUE";8;10;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";167;73
+24;"weiblich";2;"EuWi";"BY";"4";"TRUE";20;4;"Nein";"Nein";6;"m‰ﬂig";"m‰ﬂig wichtig";169;67
+20;"weiblich";2;"BWL";"BY";"3";"TRUE";35;2;"Nein";"Nein";0;"sehr stark";"wichtig";161;67
+21;"m‰nnlich";2;"WI";"SN";"2";"TRUE";15;4;"Nein";"Nein";2;"wenig";"wenig wichtig";179;86
+20;"m‰nnlich";2;"WI";"NI";"2";"TRUE";0;10;"Nein";"Nein";2;"m‰ﬂig";"wichtig";192;95
+21;"m‰nnlich";2;"WI";"BY";"2";"TRUE";15;4;"Nein";"Nein";10;"gar nicht";"m‰ﬂig wichtig";189;94
+21;"m‰nnlich";2;"WI";"RP";"2";"TRUE";13;0;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";202;107
+21;"weiblich";2;"EuWi";"BY";"4";"TRUE";20;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";174;79
+20;"weiblich";2;"EuWi";"BY";"2";"FALSE";40;1,5;"Nein";"Ja";0;"stark";"wenig wichtig";178;85
+21;"m‰nnlich";2;"POL";"BY";"5";"TRUE";15;3;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";176;82
+23;"m‰nnlich";1;"BWL";"BY";"3";"TRUE";12;3,5;"Nein";"Nein";2;"m‰ﬂig";"wichtig";159;63
+21;"weiblich";1;"BWL";"BW";"4";"FALSE";50;1;"Ja";"Ja";4;"stark";"m‰ﬂig wichtig";202;106
+23;"m‰nnlich";1;"BWL";"TH";"3";"TRUE";49,3;5,5;"Nein";"Ja";10;"m‰ﬂig";"wichtig";151;57
+21;"m‰nnlich";1;"BWL";"BY";"5";"TRUE";7;4;"Nein";"Nein";0;"stark";"wichtig";161;65
+21;"weiblich";1;"BWL";"HE";"3";"TRUE";30;1;"Nein";"Ja";0;"m‰ﬂig";"wichtig";164;69
+20;"weiblich";2;"SOZ";"BB";"5";"TRUE";30;3;"Nein";"Nein";0;"stark";"wenig wichtig";169;71
+21;"m‰nnlich";2;"WI";"BW";"4";"TRUE";10;6;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";195;99
+24;"m‰nnlich";1;"WI";"BW";"3";"TRUE";15;5;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";155;59
+24;"m‰nnlich";4;"SOZ";"BY";"4";"FALSE";12;6;"Nein";"Nein";8;"sehr stark";"m‰ﬂig wichtig";184;86
+22;"weiblich";1;"SOZ";"BB";"5";"TRUE";22;5;"Nein";"Ja";17,5;"stark";"sehr wichtig";181;86
+23;"m‰nnlich";6;"SOZ";"BY";"5";"TRUE";10;10;"Nein";"Nein";12,5;"stark";"wichtig";182;84
+24;"m‰nnlich";2;"SOZ";"BY";"2";"TRUE";8;10;"Nein";"Nein";0;"stark";"wichtig";196;100
+20;"m‰nnlich";2;"SOZ";"BY";"2";"TRUE";10;8;"Nein";"Nein";NA;"sehr stark";"wichtig";174;78
+22;"weiblich";2;"BWL";"BY";"3";"TRUE";66;6;"Nein";"Nein";12;"stark";"m‰ﬂig wichtig";173;75
+20;"weiblich";1;"SOZ";"BY";"2";"TRUE";25;2;"Nein";"Nein";0,5;"m‰ﬂig";"m‰ﬂig wichtig";160;62
+22;"weiblich";1;"SOZ";"BY";"2";"FALSE";20;NA;"Nein";"Ja";10;"wenig";"wichtig";198;106
+20;"weiblich";1;"SOZ";"BY";"4";"TRUE";20;NA;"Nein";"Ja";0;"stark";"wichtig";178;81
+21;"weiblich";2;"BWL";"BY";"4";"TRUE";40;2,5;"Nein";"Ja";0;"stark";"wenig wichtig";202;107
+20;"weiblich";2;"BWL";"BY";"3";"TRUE";35;1;"Nein";"Ja";0;"stark";"wenig wichtig";186;90
+NA;NA;1;"BWL";"BY";"6";"FALSE";10;2;"Ja";"Nein";3;"stark";"wenig wichtig";166;69
+20;"weiblich";2;"SOZ";"BY";"2";"TRUE";40;5,5;"Ja";"Nein";7;"stark";"m‰ﬂig wichtig";204;109
+21;"weiblich";2;"SOZ";"BY";"4";"TRUE";35;1;"Nein";"Ja";0;"stark";"wenig wichtig";166;74
+21;"weiblich";2;"SOZ";"BB";"2";"TRUE";90;7;"Ja";"Nein";0;"wenig";"m‰ﬂig wichtig";173;78
+19;"weiblich";2;"BWL";"TH";"3";"TRUE";50,4;4;"Nein";"Nein";0;"m‰ﬂig";"wenig wichtig";205;108
+23;"weiblich";2;"BWL";"Ausland";"4";"TRUE";48;0;"Nein";"Ja";5;"sehr stark";"m‰ﬂig wichtig";159;65
+22;"weiblich";4;"BWL";"BW";"6";"FALSE";30;2;"Nein";"Nein";NA;"sehr stark";"wenig wichtig";205;111
+22;"m‰nnlich";2;"EuWi";"BE";"5";"TRUE";5;0;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";167;76
+22;"m‰nnlich";2;"EuWi";"BW";"4";"TRUE";8;5;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";186;92
+22;"m‰nnlich";2;"EuWi";"BY";"4";"TRUE";10;5;"Nein";"Nein";0;"sehr stark";"wenig wichtig";167;69
+21;"weiblich";2;"EuWi";"BY";"4";"TRUE";28;0;"Nein";"Nein";0;"sehr stark";"wichtig";179;83
+28;"weiblich";3;"SOZ";"NI";"4";"FALSE";10;0;"Ja";"Ja";0;"m‰ﬂig";"wichtig";189;93
+21;"m‰nnlich";2;"BWL";"BY";"3";"TRUE";15;2;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";156;61
+21;"m‰nnlich";2;"EuWi";"BY";"5";"TRUE";NA;12;"Nein";"Nein";1,5;"stark";"wenig wichtig";156;59
+21;"m‰nnlich";2;"EuWi";"BY";"4";"FALSE";19;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";201;106
+20;"weiblich";2;"EuWi";"BY";"4";"TRUE";38;1;"Nein";"Nein";0;"stark";"wichtig";179;85
+23;"weiblich";4;"EuWi";"BY";"6";"TRUE";100;21;"Nein";"Nein";7;"stark";"wichtig";195;98
+29;"m‰nnlich";4;"EuWi";"BY";"5";"TRUE";0;2;"Ja";"Nein";0;"m‰ﬂig";"wenig wichtig";198;104
+20;"weiblich";2;"EuWi";"BY";"3";"FALSE";25;3;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";179;87
+21;"weiblich";2;"EuWi";"NI";"4";"TRUE";0;2,5;"Nein";"Nein";3;"m‰ﬂig";"m‰ﬂig wichtig";162;69
+20;"weiblich";2;"EuWi";"BY";"3";"FALSE";50;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";192;97
+22;"m‰nnlich";2;"SOZ";"BY";"4";"TRUE";10;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";167;72
+21;"weiblich";2;"EuWi";"BW";"2";"FALSE";60;3;"Nein";"Ja";0;"sehr stark";"wichtig";163;70
+21;"weiblich";2;"EuWi";"BW";"1";"TRUE";35;3;"Nein";"Ja";NA;"sehr stark";"wichtig";156;60
+20;"weiblich";2;"EuWi";"BY";"4";"TRUE";50;0;"Nein";"Ja";0;"sehr stark";"wichtig";199;99
+28;"m‰nnlich";5;"POL";"BY";"5";"TRUE";16;5;"Nein";"Nein";0;"stark";"wenig wichtig";204;107
+26;"m‰nnlich";4;"POL";"BY";"3";"TRUE";0;6;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";182;90
+20;"weiblich";4;"SOZ";"SN";"2";"FALSE";27;15;"Ja";"Ja";40;"gar nicht";"m‰ﬂig wichtig";197;103
+26;"m‰nnlich";2;"WiP‰d";"NW";"5";"TRUE";10;6;"Nein";"Ja";20;"stark";"wenig wichtig";164;70
+21;"m‰nnlich";2;"SOZ";"BY";"5";"FALSE";30;2;"Ja";"Nein";10;"sehr stark";"wichtig";193;98
+21;"m‰nnlich";2;"SOZ";"BY";"3";"FALSE";10;2;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";154;57
+25;"weiblich";2;"SOZ";"BY";"4";"TRUE";43;0;"Nein";"Nein";8;"stark";"wichtig";202;109
+20;"weiblich";2;"BWL";"BY";"3";"TRUE";15;2;"Nein";"Nein";0;"wenig";"m‰ﬂig wichtig";166;71
+23;"m‰nnlich";2;"WiP‰d";"BY";"3";"TRUE";0;2;"Nein";"Nein";0;"stark";"wenig wichtig";177;83
+27;"m‰nnlich";1;"BWL";"BY";"3";"TRUE";20;0;"Nein";"Ja";0;"wenig";"sehr wichtig";165;68
+22;"m‰nnlich";1;"BWL";"BW";"3";"TRUE";11;2,5;"Nein";"Nein";0;"wenig";"wichtig";175;79
+20;"m‰nnlich";1;"BWL";"Ausland";"3";"TRUE";11;4;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";167;72
+20;"m‰nnlich";1;"BWL";"BY";"4";"TRUE";0;5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";164;66
+21;"m‰nnlich";1;"BWL";"BW";"3";"TRUE";20;1;"Nein";"Nein";0;"stark";"sehr wichtig";202;106
+20;"weiblich";1;"BWL";"BY";"4";"TRUE";20;1;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";202;109
+21;"m‰nnlich";2;NA;"BY";"4";"FALSE";0;2;"Nein";"Nein";0;"sehr stark";"wenig wichtig";183;89
+20;"m‰nnlich";2;"BWL";"BY";"4";"FALSE";38;10;"Nein";"Nein";0;"stark";"gar nicht";190;92
+21;"weiblich";2;"POL";"BY";"4";"FALSE";60;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";151;60
+21;"weiblich";2;"POL";"BY";"4";"FALSE";40;3;"Nein";"Ja";0;"sehr stark";"wenig wichtig";161;66
+20;"weiblich";2;"WiP‰d";"SN";"2";"TRUE";18;3;"Nein";"Nein";8;"m‰ﬂig";"m‰ﬂig wichtig";158;60
+23;"weiblich";2;"BWL";"BY";"2";"TRUE";60;5;"Nein";"Nein";10;"stark";"wenig wichtig";188;92
+24;"weiblich";2;"WiP‰d";"BY";"3";"TRUE";25;5;"Nein";"Ja";0;"stark";"wenig wichtig";179;83
+27;"weiblich";2;"WiP‰d";"BY";"5";"TRUE";70;5;"Nein";"Nein";16;"stark";"m‰ﬂig wichtig";202;105
+22;"weiblich";6;"SOZ";"BY";"5";"TRUE";48;1;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";155;59
+21;"m‰nnlich";1;"POL";"HH";"3";"FALSE";0;0;"Ja";"Nein";0;"stark";"wenig wichtig";191;94
+21;"m‰nnlich";2;"EuWi";"BY";"3";"TRUE";12;15;"Nein";"Nein";6;"stark";"wichtig";190;95
+21;"m‰nnlich";2;"EuWi";"BY";"3";"TRUE";17;8;"Nein";"Nein";0;"sehr stark";"sehr wichtig";164;65
+21;"weiblich";2;"EuWi";"BY";"3";"TRUE";60;2;"Nein";"Nein";10;"sehr stark";"m‰ﬂig wichtig";153;56
+20;"weiblich";2;"EuWi";"BY";"3";"TRUE";13,5;1;"Nein";"Nein";3;"stark";"sehr wichtig";185;93
+21;"weiblich";2;"EuWi";"BY";"3";"TRUE";50;10;"Nein";"Nein";10;"sehr stark";"wenig wichtig";159;64
+21;"weiblich";2;"EuWi";"BY";"4";"TRUE";30;0;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";153;55
+21;"weiblich";2;"EuWi";"BY";"4";"FALSE";65;1,5;"Nein";"Nein";6;"sehr stark";"sehr wichtig";172;79
+21;"weiblich";2;"BWL";"NW";"5";"TRUE";60;2;"Nein";"Nein";0;"stark";"sehr wichtig";188;92
+24;"weiblich";5;"SOZ";"TH";"2";"TRUE";40;0;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";155;60
+26;"m‰nnlich";6;"BWL";"BW";"5";"TRUE";10;1;"Nein";"Ja";10;"sehr stark";"m‰ﬂig wichtig";180;86
+23;"weiblich";2;"BWL";"BW";"3";"TRUE";30;2;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";156;57
+28;"weiblich";2;"WiP‰d";"BY";"3";"TRUE";55;10;"Nein";"Ja";0;"sehr stark";"gar nicht";155;64
+23;"weiblich";2;"WiP‰d";"BY";"5";"TRUE";60;4;"Nein";"Nein";0;"sehr stark";"wenig wichtig";159;59
+21;"weiblich";2;"SOZ";"BE";"3";"FALSE";10;1;NA;NA;0;"stark";"m‰ﬂig wichtig";165;72
+21;"weiblich";2;"SOZ";"BY";"3";"TRUE";35;0;"Nein";"Nein";0;"m‰ﬂig";"wichtig";162;69
+24;"weiblich";6;"BWL";"BW";"4";"TRUE";100;6;"Nein";"Nein";10;"stark";"m‰ﬂig wichtig";171;77
+NA;"m‰nnlich";2;"POL";"BW";"4";"TRUE";0;3;"Nein";"Nein";8;"sehr stark";"wichtig";170;73
+21;"weiblich";2;"BWL";"BY";"3";"TRUE";30;0;"Nein";"Nein";1;"stark";"m‰ﬂig wichtig";166;70
+24;"weiblich";2;"WiP‰d";"BY";"4";"TRUE";60;10;"Nein";"Ja";0;"sehr stark";"m‰ﬂig wichtig";192;99
+27;"m‰nnlich";4;"WiP‰d";"NI";"4";"TRUE";12;2;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";200;107
+21;"weiblich";2;"SOZ";"BW";"5";"TRUE";8;4;"Nein";"Nein";45;"m‰ﬂig";"wichtig";169;72
+25;"m‰nnlich";6;"POL";"NW";"5";"TRUE";10;2;"Nein";"Nein";10;"m‰ﬂig";"m‰ﬂig wichtig";186;92
+24;"m‰nnlich";4;"POL";"BW";"5";"FALSE";10;0;"Nein";"Nein";0;"stark";"wenig wichtig";171;76
+23;"m‰nnlich";4;"POL";"BY";"5";"FALSE";8;3;"Nein";"Nein";8;"sehr stark";"wenig wichtig";189;92
+25;"m‰nnlich";4;"POL";"BW";"4";"TRUE";40;10;"Nein";"Ja";5;"m‰ﬂig";"gar nicht";166;67
+25;"m‰nnlich";3;"SOZ";"HH";"3";"FALSE";8,5;2;"Nein";"Ja";15;"stark";"sehr wichtig";204;110
+21;"weiblich";2;"BWL";"NW";"4";"FALSE";40;2,5;"Nein";"Nein";0;"stark";"wichtig";176;85
+21;"weiblich";2;"BWL";"BY";"2";NA;70;4,5;"Nein";"Nein";NA;"m‰ﬂig";"wichtig";194;97
+20;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";0;3,5;"Nein";"Nein";12;"sehr stark";"wenig wichtig";200;104
+30;"m‰nnlich";2;"BWL";"BW";"5";"TRUE";12;10;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";190;92
+22;"m‰nnlich";2;"BWL";"BW";"4";"TRUE";20;0;"Nein";"Nein";0;"stark";"wenig wichtig";164;69
+21;"weiblich";2;"SOZ";"BY";"3";"TRUE";17;3;"Nein";"Nein";2;"stark";"wichtig";185;92
+21;"weiblich";2;"SOZ";"BY";"5";"TRUE";60;1,5;"Nein";"Nein";8;"stark";"wichtig";200;108
+20;"weiblich";2;"SOZ";"BY";"3";"TRUE";18;1,5;"Nein";"Nein";3;"stark";"m‰ﬂig wichtig";205;110
+20;"weiblich";2;"SOZ";"BY";"5";"TRUE";40;0;"Nein";"Nein";0;"stark";"wichtig";151;56
+22;"m‰nnlich";2;"SOZ";"BY";"4";"FALSE";20;0;"Nein";"Ja";NA;"stark";"m‰ﬂig wichtig";190;95
+21;"m‰nnlich";2;"POL";"NW";"3";"TRUE";15;0;"Nein";"Ja";0;"stark";"wenig wichtig";185;91
+22;"m‰nnlich";2;"POL";"NW";"5";"FALSE";12;0;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";203;109
+22;"m‰nnlich";2;"POL";"BW";"3";"TRUE";14;2,5;"Nein";"Nein";0;"sehr stark";"wenig wichtig";156;62
+21;"weiblich";2;"EuWi";"NI";"3";"FALSE";60;3;"Nein";"Nein";NA;"m‰ﬂig";"m‰ﬂig wichtig";171;73
+20;"weiblich";2;"EuWi";"BY";"5";"TRUE";16;1,5;"Nein";"Nein";2;"sehr stark";"m‰ﬂig wichtig";194;100
+20;"weiblich";2;"EuWi";"BY";"6";"TRUE";20;7;"Nein";"Nein";NA;"sehr stark";"gar nicht";162;70
+23;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";10;2;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";198;102
+20;"weiblich";2;"BWL";"BW";"5";"FALSE";44;1;"Nein";"Ja";0;"sehr stark";"wenig wichtig";194;99
+23;"weiblich";1;"BWL";"BY";"2";"TRUE";90;4;"Nein";"Nein";8;"stark";"m‰ﬂig wichtig";162;67
+21;"weiblich";2;"POL";"HE";"5";"TRUE";75;2;"Ja";"Ja";0;"m‰ﬂig";"wichtig";194;96
+22;"weiblich";2;"BWL";"BY";"2";"TRUE";80;3;"Nein";"Nein";4;"stark";"wenig wichtig";153;57
+20;"m‰nnlich";2;"BWL";"BE";"3";"TRUE";10;6;"Nein";"Nein";0;"sehr stark";"wichtig";173;83
+25;"m‰nnlich";1;"SOZ";"BY";"5";"TRUE";0;10;"Nein";"Ja";2;"stark";"m‰ﬂig wichtig";156;61
+24;"m‰nnlich";4;"SOZ";"BY";"4";NA;0;10;"Nein";"Nein";2;"stark";"m‰ﬂig wichtig";204;109
+22;"m‰nnlich";2;"POL";"BY";"3";"TRUE";20;6;"Nein";"Nein";6;"stark";"m‰ﬂig wichtig";178;85
+21;"weiblich";2;"POL";"BW";"5";"FALSE";30;6;"Nein";"Nein";NA;"sehr stark";"m‰ﬂig wichtig";194;99
+26;"weiblich";2;"SOZ";"BB";"5";"TRUE";30;1;"Nein";"Nein";4;"stark";"m‰ﬂig wichtig";163;70
+23;"weiblich";2;"WiP‰d";"BY";"5";"TRUE";56;6;"Nein";"Nein";6;"sehr stark";"m‰ﬂig wichtig";160;65
+26;"weiblich";3;"WiP‰d";"NW";"3";"TRUE";68;4;"Nein";"Nein";0;"sehr stark";"wichtig";189;98
+23;"m‰nnlich";2;"WiP‰d";"BY";"3";"TRUE";15;3,5;"Nein";"Nein";6;"stark";"m‰ﬂig wichtig";161;67
+24;"m‰nnlich";2;"WiP‰d";"NW";"5";"TRUE";10;1;"Nein";"Ja";3;"sehr stark";"wenig wichtig";196;101
+22;"m‰nnlich";2;"POL";"NW";"5";"TRUE";12,5;6;"Nein";"Nein";0;"stark";"gar nicht";200;102
+NA;"m‰nnlich";2;"WiP‰d";NA;"5";"FALSE";12;1;"Nein";"Nein";NA;"sehr stark";"wichtig";183;88
+22;"weiblich";2;"WiP‰d";"BY";"2";"TRUE";18;1;"Nein";"Nein";0;"sehr stark";"sehr wichtig";150;54
+23;"weiblich";2;"WiP‰d";"BY";"2";"TRUE";30;1;"Nein";"Nein";10;"sehr stark";"wichtig";192;98
+22;"weiblich";2;"WiP‰d";"BY";"2";"FALSE";30;5;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";165;70
+22;"weiblich";2;"BWL";"NW";"3";"FALSE";10;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";150;54
+22;"m‰nnlich";2;"POL";"BY";"2";"TRUE";3,6;2,5;"Nein";"Nein";3;"m‰ﬂig";"m‰ﬂig wichtig";174;75
+21;"weiblich";2;"POL";"BY";"3";"TRUE";30;3;"Nein";"Nein";20;"m‰ﬂig";"wenig wichtig";153;59
+22;"m‰nnlich";2;"SOZ";"BY";"5";"TRUE";15;3,3;"Nein";"Nein";0;"m‰ﬂig";"wichtig";194;98
+22;"m‰nnlich";2;"SOZ";"BY";"5";"TRUE";0;1;"Ja";"Nein";0;"stark";"m‰ﬂig wichtig";153;58
+25;"m‰nnlich";2;"SOZ";"BY";"2";"TRUE";12;0;"Nein";"Ja";30;"stark";"sehr wichtig";184;86
+21;"m‰nnlich";2;"POL";"BW";"4";"FALSE";11,5;1;"Nein";"Nein";0;"sehr stark";"wenig wichtig";153;58
+22;"m‰nnlich";2;"POL";"Ausland";"3";"FALSE";4;2;"Nein";"Nein";0;"stark";"wenig wichtig";154;59
+21;"m‰nnlich";2;"POL";"BY";"2";"TRUE";14;20;"Nein";"Nein";0;"stark";"wenig wichtig";178;84
+22;"m‰nnlich";2;"WiP‰d";"BY";"3";"TRUE";60;0;"Nein";"Ja";2;"stark";"gar nicht";157;62
+28;"weiblich";4;"Anderes";"BB";"2";"FALSE";15;1;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";175;82
+23;"m‰nnlich";2;"POL";"NW";"3";"TRUE";30;2;"Nein";"Ja";0;"m‰ﬂig";"wichtig";158;59
+21;"weiblich";2;"EuWi";"BY";"2";"TRUE";25;1,5;"Nein";"Nein";2;"stark";"wichtig";150;55
+21;"weiblich";2;"POL";"BY";"1";"TRUE";13;2,5;"Nein";"Nein";0;"sehr stark";"wichtig";202;104
+23;"m‰nnlich";2;"Anderes";"BY";"2";"TRUE";22;1;"Nein";"Nein";10;"stark";"wichtig";177;82
+24;"weiblich";6;"Anderes";"RP";"5";"TRUE";35;3;"Nein";"Ja";5;"m‰ﬂig";"wichtig";191;95
+31;"weiblich";2;"EuWi";"HE";"5";"TRUE";20;3;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";154;59
+21;"weiblich";2;"POL";"BY";"5";"TRUE";10;1;"Ja";"Ja";0;"m‰ﬂig";"wichtig";156;59
+22;"weiblich";2;"POL";"NI";"5";"TRUE";50;4;"Nein";"Nein";NA;"stark";"m‰ﬂig wichtig";186;92
+21;"weiblich";2;"BWL";"RP";"2";"TRUE";69;3;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";187;92
+21;"weiblich";3;"BWL";"BY";"3";"TRUE";60;2;"Nein";"Nein";6;"stark";"m‰ﬂig wichtig";194;98
+21;"weiblich";2;"BWL";"BY";"4";"TRUE";60;4;"Nein";"Nein";8;"stark";"wichtig";180;86
+21;"weiblich";2;"BWL";"BY";"2";"TRUE";24;9;"Nein";"Nein";5;"m‰ﬂig";"wichtig";179;83
+20;"m‰nnlich";2;"BWL";"SN";"4";"TRUE";20;2;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";171;79
+21;"m‰nnlich";2;"BWL";"TH";"5";"TRUE";5;6;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";199;106
+22;"weiblich";2;"BWL";"BY";"4";"TRUE";50;14;"Ja";"Nein";0;"sehr stark";"wenig wichtig";179;90
+23;"m‰nnlich";6;"WiP‰d";"NW";"6";"TRUE";18;0;"Nein";"Nein";0;"sehr stark";"gar nicht";200;104
+24;"m‰nnlich";2;"SOZ";"BY";"3";"TRUE";13,5;0;"Ja";"Nein";0;"stark";"m‰ﬂig wichtig";174;81
+23;"weiblich";2;"SOZ";"BW";"4";"TRUE";10;0;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";159;65
+20;"weiblich";2;"SOZ";"NW";"4";"TRUE";18;2;"Nein";"Nein";0;"stark";"sehr wichtig";184;88
+NA;"m‰nnlich";2;"SOZ";"NI";"4";"TRUE";8;10;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";154;59
+26;"weiblich";2;"EuWi";"BB";"3";"TRUE";40;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";153;61
+24;"weiblich";2;"EuWi";"BB";"3";"TRUE";40;2;"Nein";"Nein";20;"stark";"m‰ﬂig wichtig";173;77
+21;"weiblich";4;"POL";"BW";"3";"TRUE";47;3;"Ja";"Nein";NA;"sehr stark";"wenig wichtig";152;54
+22;"m‰nnlich";3;"POL";"BW";"2";"TRUE";21;0,5;"Nein";"Nein";NA;"m‰ﬂig";"m‰ﬂig wichtig";196;101
+20;"weiblich";2;"BWL";"BY";"2";"TRUE";27;1;"Nein";"Nein";0;"stark";"wichtig";186;94
+21;"weiblich";2;"BWL";"BY";"4";"TRUE";65;1;"Nein";"Nein";9;"stark";"wichtig";165;69
+20;"weiblich";2;"BWL";"BY";"3";"TRUE";55;1;"Nein";"Nein";1,5;"stark";"wichtig";175;82
+25;"m‰nnlich";5;"WI";"BB";"3";"FALSE";6;0;"Nein";"Nein";20;"m‰ﬂig";"wenig wichtig";152;59
+20;"m‰nnlich";2;"BWL";"BB";"3";"TRUE";NA;10;"Nein";"Nein";NA;"sehr stark";"m‰ﬂig wichtig";152;55
+25;"weiblich";2;"SOZ";"BB";"3";"TRUE";20;4;"Nein";"Nein";10;"stark";"wichtig";162;64
+21;"weiblich";2;"BWL";"TH";"2";"FALSE";21;1;"Nein";"Nein";16;"m‰ﬂig";"wichtig";181;82
+24;"weiblich";2;"BWL";"BY";"3";"TRUE";52;4;"Nein";"Nein";0;"m‰ﬂig";"sehr wichtig";191;97
+25;"weiblich";2;"BWL";NA;"3";"TRUE";20;1;"Nein";"Nein";0;"sehr stark";"wichtig";176;81
+30;"weiblich";3;"BWL";"BB";"3";"TRUE";30;3;"Nein";"Nein";4;"stark";"m‰ﬂig wichtig";152;56
+21;"weiblich";4;"SOZ";"BY";"6";"TRUE";35;2;"Nein";"Nein";4;"stark";"wenig wichtig";177;79
+23;"m‰nnlich";4;"SOZ";"BW";"3";"TRUE";15;0,5;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";179;84
+23;"weiblich";4;"SOZ";"NW";"5";"TRUE";29;1,5;"Nein";"Nein";5;"stark";"gar nicht";198;102
+22;"weiblich";4;"SOZ";"SN";"4";"TRUE";20;2;"Nein";"Nein";0;"stark";"wenig wichtig";182;86
+21;"m‰nnlich";2;"BWL";"BY";"5";"TRUE";15;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";197;100
+29;"m‰nnlich";3;"BWL";"BB";"2";"TRUE";0;8;"Nein";"Ja";14;"wenig";"wichtig";169;80
+21;"weiblich";3;"WI";"TH";"2";"TRUE";26;1;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";178;85
+21;"m‰nnlich";3;"POL";"BE";"4";"TRUE";10;2;"Nein";"Ja";0;"m‰ﬂig";"wenig wichtig";203;107
+22;"m‰nnlich";3;"POL";"Ausland";"5";"TRUE";14;2;"Nein";"Ja";0;"sehr stark";"gar nicht";183;87
+23;"m‰nnlich";3;"BWL";"BY";"4";"TRUE";12;0;"Nein";"Ja";0;"stark";"wenig wichtig";150;54
+23;"m‰nnlich";2;"POL";"NI";"5";"TRUE";10;0;"Nein";"Ja";0;"sehr stark";"wenig wichtig";167;71
+NA;"m‰nnlich";2;"POL";"BW";"3";"FALSE";15,6;1;"Nein";"Nein";0;NA;NA;200;106
+21;"weiblich";2;"BWL";"BY";"3";"TRUE";25;2;"Ja";"Nein";1;"sehr stark";"m‰ﬂig wichtig";196;98
+22;"m‰nnlich";2;"BWL";"BY";"2";"FALSE";10;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";175;84
+23;"weiblich";2;"BWL";"BW";"4";"TRUE";10;2;"Nein";"Nein";7;"sehr stark";"sehr wichtig";159;63
+21;"m‰nnlich";2;"BWL";"BY";"2";"TRUE";0;4;"Nein";"Nein";0,5;"m‰ﬂig";"m‰ﬂig wichtig";187;91
+21;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";8;12,5;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";195;101
+22;"weiblich";3;"POL";"BY";"6";"TRUE";0;3;"Nein";"Ja";10;"sehr stark";"gar nicht";204;109
+22;"m‰nnlich";2;"POL";"BY";"5";"TRUE";10;7;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";205;108
+23;"weiblich";3;"POL";"BW";"5";"TRUE";50;5;"Nein";"Nein";0;"stark";"wenig wichtig";158;62
+25;"m‰nnlich";3;"POL";"BY";"5";"FALSE";12;10;"Nein";"Ja";1;"stark";"wenig wichtig";151;57
+22;"weiblich";3;"POL";"BY";"6";"TRUE";20;1;"Nein";"Ja";2;"m‰ﬂig";"gar nicht";168;74
+23;"m‰nnlich";3;"POL";"NW";"5";"TRUE";8,9;8;"Nein";"Ja";0;"m‰ﬂig";"wichtig";161;66
+21;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";15;10;"Nein";"Nein";10;"stark";"wichtig";172;79
+22;"m‰nnlich";2;"POL";"BY";"3";"TRUE";30;6;"Nein";"Nein";0;"m‰ﬂig";"wichtig";157;61
+NA;"m‰nnlich";4;"POL";"BY";"5";"TRUE";8,5;2;"Nein";"Nein";40;"stark";"wichtig";160;63
+21;"m‰nnlich";2;"POL";"BY";"3";"TRUE";6;4;"Nein";"Ja";6;"stark";"m‰ﬂig wichtig";176;81
+21;"m‰nnlich";2;"POL";"NI";"3";"TRUE";20;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";200;103
+21;"m‰nnlich";2;"BWL";"BY";"5";"TRUE";20;7;"Nein";"Nein";0;"sehr stark";"wenig wichtig";173;79
+31;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";8;0,5;"Nein";"Nein";15;"sehr stark";"m‰ﬂig wichtig";155;63
+22;"m‰nnlich";2;"SOZ";"BW";"3";"FALSE";15;2;"Nein";"Nein";0;"stark";"wichtig";186;91
+21;"weiblich";2;"POL";"BW";"2";"FALSE";35;2;"Ja";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";193;100
+22;"weiblich";2;"BWL";"BB";"5";"TRUE";20;5,5;"Nein";"Nein";8;"sehr stark";"m‰ﬂig wichtig";185;93
+29;"m‰nnlich";4;"WiP‰d";"BB";"3";"TRUE";8;2;"Nein";"Ja";20;"sehr stark";"gar nicht";174;81
+NA;"m‰nnlich";1;"WI";"BB";"2";"TRUE";0;3;"Nein";"Nein";27,5;"sehr stark";"wichtig";187;94
+23;"m‰nnlich";1;"BWL";"BB";"5";"TRUE";6;1;"Nein";"Nein";8;"sehr stark";"sehr wichtig";154;58
+25;"weiblich";2;"WI";"BB";"3";"TRUE";100;0;"Ja";"Nein";0;"m‰ﬂig";"wichtig";155;58
+24;"m‰nnlich";4;"WI";"BB";"4";"FALSE";0;2;"Nein";"Ja";NA;"stark";"wenig wichtig";152;58
+24;"m‰nnlich";3;"POL";"BE";"5";"TRUE";10;1;"Nein";"Nein";13;"stark";"m‰ﬂig wichtig";186;89
+24;"weiblich";2;"EuWi";"BW";"6";"FALSE";20;1;"Nein";"Ja";20;"sehr stark";"m‰ﬂig wichtig";161;68
+23;"weiblich";2;"WI";"BW";"6";"TRUE";50;0;"Nein";"Ja";12;"stark";"wenig wichtig";192;95
+22;"m‰nnlich";2;"WI";"BY";"3";"TRUE";20;3;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";169;76
+24;"weiblich";6;"SOZ";"BY";"4";"TRUE";0;5,5;"Nein";"Nein";10;"sehr stark";"m‰ﬂig wichtig";199;107
+22;"m‰nnlich";2;"BWL";"BY";"5";"TRUE";0;5;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";183;89
+22;"weiblich";2;"BWL";"BY";"6";"TRUE";0;5;"Ja";"Nein";0;"sehr stark";"wenig wichtig";159;64
+24;"weiblich";2;"WiP‰d";"BY";"4";"TRUE";15;4;"Nein";"Nein";0;"stark";"wichtig";183;89
+20;"m‰nnlich";2;"WI";"BY";"1";"TRUE";5;10;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";156;61
+21;"m‰nnlich";2;"WI";"BY";"5";"TRUE";15;1;"Ja";"Nein";0;"m‰ﬂig";"wichtig";201;105
+20;"m‰nnlich";2;"WI";"TH";"3";"TRUE";15;2;"Nein";"Nein";2;"stark";"m‰ﬂig wichtig";151;53
+24;"m‰nnlich";2;"POL";"BY";"5";"TRUE";0;0;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";165;70
+24;"m‰nnlich";3;"POL";"TH";"3";"TRUE";0;4;"Nein";"Ja";15;"stark";"wenig wichtig";159;68
+NA;"weiblich";2;"WI";"BB";"2";"TRUE";10;0;"Nein";"Nein";NA;"m‰ﬂig";"wichtig";163;67
+21;"m‰nnlich";2;"WI";"BY";"2";"TRUE";18;4,5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";183;86
+29;"weiblich";1;"SOZ";"BW";"3";"TRUE";0;2;"Nein";"Nein";0;"m‰ﬂig";"sehr wichtig";168;71
+26;"m‰nnlich";2;"BWL";"BB";"5";"TRUE";10;4;"Nein";"Ja";8;"m‰ﬂig";"wichtig";156;60
+25;"m‰nnlich";2;"WI";"BB";"4";"TRUE";2,5;5,5;"Nein";"Nein";15;"sehr stark";"m‰ﬂig wichtig";163;71
+22;"m‰nnlich";2;"BWL";"BY";"4";NA;24;9;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";151;55
+27;"weiblich";6;"SOZ";"BY";"5";"FALSE";12;4;"Nein";"Ja";20;"sehr stark";"wenig wichtig";152;56
+29;"m‰nnlich";6;"POL";"BY";"5";"FALSE";25;1;"Nein";"Ja";2;"sehr stark";"gar nicht";159;63
+22;"weiblich";2;"BWL";"BW";"5";"TRUE";12;0;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";195;100
+22;"weiblich";2;"BWL";"BW";"3";"FALSE";20;4;"Nein";"Nein";0;"stark";"wichtig";181;87
+21;"weiblich";2;"POL";"NW";"4";"TRUE";20;1;"Nein";"Ja";0;"m‰ﬂig";"gar nicht";156;60
+31;"m‰nnlich";2;"POL";"BY";"4";"TRUE";25;1;"Ja";"Nein";14,5;"stark";"m‰ﬂig wichtig";178;83
+21;"m‰nnlich";2;"POL";"SN";"4";"TRUE";0;2;"Nein";"Ja";15;"sehr stark";"gar nicht";152;55
+22;"weiblich";2;"SOZ";"BY";"4";"TRUE";0;2;"Nein";"Ja";3;"m‰ﬂig";"wichtig";157;61
+20;"m‰nnlich";2;"POL";"SN";"6";"FALSE";20;2;"Nein";"Ja";0;"sehr stark";"m‰ﬂig wichtig";197;101
+21;"m‰nnlich";2;"SOZ";"BY";"5";"TRUE";12;2;"Nein";"Ja";0;"sehr stark";"m‰ﬂig wichtig";187;91
+21;"m‰nnlich";2;"POL";"NW";"4";"TRUE";12;6;"Nein";"Nein";8;"stark";"m‰ﬂig wichtig";163;69
+21;"m‰nnlich";2;"POL";"NW";"3";"TRUE";12;6;"Nein";"Nein";0;"m‰ﬂig";"wichtig";168;71
+24;"m‰nnlich";4;"POL";"BY";"3";"TRUE";26;2;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";166;68
+21;"m‰nnlich";1;"BWL";"BY";"4";"TRUE";0;8;"Nein";"Ja";8;"wenig";"wichtig";200;108
+22;"m‰nnlich";2;"POL";"NW";"3";"TRUE";0;5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";191;95
+20;"weiblich";2;"SOZ";"BY";"5";"TRUE";50;1;"Nein";"Nein";12;"sehr stark";"m‰ﬂig wichtig";170;76
+25;"m‰nnlich";6;"SOZ";"TH";"4";"TRUE";0;10;"Nein";"Ja";0;"m‰ﬂig";"m‰ﬂig wichtig";202;109
+22;"m‰nnlich";2;"SOZ";"BY";"3";"TRUE";23;10;"Nein";"Nein";4;"stark";"wichtig";191;96
+24;"m‰nnlich";2;"WI";"BW";"2";"TRUE";14;5;"Nein";"Nein";10;"m‰ﬂig";"m‰ﬂig wichtig";161;65
+26;"weiblich";2;"BWL";"RP";"6";"TRUE";50;2;"Nein";"Ja";14;"stark";"m‰ﬂig wichtig";152;60
+24;"weiblich";1;"BWL";"BB";"3";"TRUE";0;1;"Nein";"Nein";17,5;"m‰ﬂig";"wichtig";200;105
+20;"weiblich";1;"WI";"BB";"3";"TRUE";10;2;"Nein";"Ja";12,5;"m‰ﬂig";"sehr wichtig";169;72
+24;"m‰nnlich";2;"WI";"HH";"5";"TRUE";27;3;"Nein";"Nein";0;"stark";"gar nicht";184;89
+21;"weiblich";1;"WI";"BB";"3";"TRUE";30;2;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";158;63
+21;"m‰nnlich";1;"WI";"BY";"5";"TRUE";12;10;"Nein";"Nein";0;"sehr stark";"m‰ﬂig wichtig";178;84
+21;"m‰nnlich";4;"POL";"BB";"5";"TRUE";21;3;"Nein";"Nein";0;"sehr stark";"wichtig";180;86
+21;"weiblich";2;"EuWi";"BB";"3";"TRUE";5;0;"Nein";"Nein";0;"sehr stark";"wichtig";196;103
+21;"m‰nnlich";2;"EuWi";"BB";"4";"TRUE";5;0;"Nein";"Nein";0;"sehr stark";"wichtig";176;82
+22;"weiblich";2;"EuWi";"BW";"2";"FALSE";50;1,5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";156;59
+20;"weiblich";2;"BWL";"BW";"3";"TRUE";35;0;"Nein";"Nein";0;"sehr stark";"wichtig";171;80
+22;"m‰nnlich";2;"BWL";"NW";"2";"FALSE";17,5;7;"Nein";"Nein";0;"m‰ﬂig";"wichtig";180;88
+26;"weiblich";2;"WiP‰d";"BY";"5";"FALSE";10;1;"Nein";"Ja";0;"stark";"wichtig";157;61
+23;"m‰nnlich";2;"SOZ";"NI";"5";"TRUE";0;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";186;93
+21;"m‰nnlich";2;"POL";"BY";"4";"TRUE";10;6;"Nein";"Ja";NA;"sehr stark";"wenig wichtig";199;106
+22;"m‰nnlich";2;"SOZ";"BY";"3";"TRUE";0;2;"Nein";"Ja";0;"m‰ﬂig";"wichtig";158;60
+21;"weiblich";2;"POL";"TH";"4";"TRUE";50;0;"Nein";"Nein";0;"m‰ﬂig";"wenig wichtig";195;94
+23;"weiblich";2;"BWL";NA;"3";"TRUE";25;6;"Nein";"Nein";16;"m‰ﬂig";"sehr wichtig";174;79
+22;"weiblich";2;"SOZ";"NW";"4";"TRUE";60;2;"Nein";"Ja";0;"m‰ﬂig";"wichtig";161;66
+23;"weiblich";2;"SOZ";"BY";"4";"TRUE";60;2;"Ja";"Ja";16;"stark";"m‰ﬂig wichtig";164;65
+24;"m‰nnlich";6;"POL";"BY";"4";"TRUE";10;2;"Nein";"Nein";14;"m‰ﬂig";"m‰ﬂig wichtig";158;62
+27;"m‰nnlich";4;"SOZ";"BY";"4";"TRUE";11;8;"Nein";"Nein";10;"stark";"wichtig";168;73
+24;"m‰nnlich";4;"BWL";"BY";"3";"TRUE";11;6;"Nein";"Nein";2;"stark";"wenig wichtig";168;77
+NA;"m‰nnlich";1;"Anderes";"BY";"5";"TRUE";0;4;"Nein";"Ja";0;"sehr stark";"wenig wichtig";178;82
+21;"m‰nnlich";2;"POL";"BY";"5";"TRUE";13;6;"Nein";"Nein";0;"stark";"sehr wichtig";185;90
+22;"m‰nnlich";4;"WiP‰d";"BW";"3";"TRUE";11;2;"Nein";"Ja";0;"stark";"wenig wichtig";190;96
+21;"m‰nnlich";2;"WiP‰d";"BY";"3";"TRUE";12;10;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";177;84
+20;"weiblich";2;"WiP‰d";"BY";"3";"FALSE";56;4;"Nein";"Ja";0;"wenig";"m‰ﬂig wichtig";167;73
+20;"weiblich";2;"WiP‰d";"BY";"2";"TRUE";30;9;"Ja";"Nein";0;"stark";"m‰ﬂig wichtig";193;102
+21;"m‰nnlich";2;"BWL";"BY";"4";"TRUE";10;3;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";155;60
+22;"m‰nnlich";2;"BWL";"BY";"3";"TRUE";11;5;"Nein";"Nein";4;"sehr stark";"wichtig";178;82
+21;"m‰nnlich";2;"BWL";"BW";"3";"FALSE";13;12;"Nein";"Nein";12;"sehr stark";"wichtig";197;101
+22;"m‰nnlich";2;"BWL";"BY";"1";"TRUE";20;8;"Nein";"Nein";0;"wenig";"wenig wichtig";158;62
+20;"m‰nnlich";1;"SOZ";"BY";"3";"TRUE";13;0;"Nein";"Ja";0;"sehr stark";"m‰ﬂig wichtig";177;84
+21;"m‰nnlich";4;"POL";"SN";"4";"TRUE";9;1;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";156;65
+23;"weiblich";2;"SOZ";"BY";"4";"TRUE";50;1;"Nein";"Ja";0;"m‰ﬂig";"m‰ﬂig wichtig";204;107
+23;"weiblich";2;"SOZ";"BY";"4";"FALSE";25;1;"Nein";"Nein";0;"m‰ﬂig";"wenig wichtig";201;108
+22;"weiblich";5;"BWL";"BY";"4";"TRUE";80;2;"Nein";"Ja";0;"stark";"gar nicht";162;69
+27;"weiblich";5;"BWL";"BY";"2";"TRUE";40;1;"Nein";"Ja";10;"stark";"wenig wichtig";162;69
+21;"weiblich";4;"POL";"BB";"2";"FALSE";0;1,5;"Ja";"Nein";8;"m‰ﬂig";"wenig wichtig";196;99
+21;"weiblich";3;"BWL";"BB";"5";"TRUE";20;5;"Nein";"Ja";NA;"sehr stark";"sehr wichtig";205;110
+21;"m‰nnlich";2;"POL";"HH";"4";"TRUE";10;2;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";170;72
+21;"weiblich";2;"POL";"BY";"3";"TRUE";30;3;"Nein";"Nein";0;"wenig";"m‰ﬂig wichtig";160;65
+22;"m‰nnlich";2;"POL";"BY";"5";"TRUE";12;8;"Nein";"Nein";0;"stark";"wichtig";200;103
+20;"m‰nnlich";2;"POL";"TH";"4";"TRUE";15;0,5;"Nein";"Ja";0,5;"stark";"wenig wichtig";169;74
+23;"weiblich";2;"WiP‰d";"BY";"3";"TRUE";40;4;"Nein";"Ja";0;"m‰ﬂig";"m‰ﬂig wichtig";198;101
+22;"weiblich";2;"EuWi";"BW";"2";"TRUE";35;5;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";157;64
+22;"weiblich";2;"BWL";"BY";"4";"TRUE";65;0;"Ja";"Ja";20;"sehr stark";"wenig wichtig";183;83
+21;"m‰nnlich";2;"POL";"BW";"2";"FALSE";17,5;3;"Nein";"Ja";0;"stark";"sehr wichtig";181;89
+27;"m‰nnlich";4;"BWL";"NW";"3";"FALSE";12,5;1;"Nein";"Ja";5;"stark";"wenig wichtig";171;72
+21;"weiblich";2;"SOZ";"RP";"4";"TRUE";35;2;"Ja";NA;0;"stark";"wichtig";202;106
+20;"weiblich";2;"SOZ";"BY";"2";"TRUE";29;3;"Nein";"Nein";9;"m‰ﬂig";"wichtig";200;105
+23;"weiblich";3;"POL";"TH";"4";"TRUE";29;2;"Nein";"Ja";0;"stark";"wenig wichtig";192;98
+23;"weiblich";4;"BWL";"BY";"4";"TRUE";80;1;"Nein";"Ja";4;"sehr stark";"m‰ﬂig wichtig";173;75
+24;"weiblich";4;"BWL";"BY";"4";"FALSE";70;1;"Nein";"Ja";0;"stark";"wenig wichtig";195;100
+NA;"m‰nnlich";2;"BWL";"BY";"4";"FALSE";14,5;5;"Nein";"Ja";4,5;"sehr stark";"gar nicht";176;83
+NA;"m‰nnlich";4;"WI";"NI";"3";"TRUE";12;2;"Nein";"Nein";11;"stark";"m‰ﬂig wichtig";178;83
+27;"m‰nnlich";6;"BWL";"BW";"3";"FALSE";20;NA;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";186;91
+21;"m‰nnlich";2;"WI";"BY";"2";"TRUE";6;0;"Nein";"Nein";0;"m‰ﬂig";"wenig wichtig";189;92
+22;"m‰nnlich";2;"WI";"BY";"2";"TRUE";10;3;"Nein";"Nein";2;"sehr stark";"wenig wichtig";157;63
+21;"m‰nnlich";2;"WI";"BY";"2";"TRUE";10;2;"Nein";"Nein";0;"stark";"wenig wichtig";179;85
+21;"m‰nnlich";2;NA;"BY";"2";"TRUE";15;4;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";179;86
+21;"m‰nnlich";2;"WI";"BY";"2";"TRUE";7;5;"Nein";"Nein";0;"m‰ﬂig";"m‰ﬂig wichtig";157;65
+21;"m‰nnlich";2;"WI";"BY";"3";"TRUE";11;4;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";152;56
+21;"m‰nnlich";2;"BWL";"BY";"2";"TRUE";12;8;"Nein";"Ja";0;"m‰ﬂig";"wenig wichtig";170;74
+21;"m‰nnlich";2;"BWL";"BY";"3";"TRUE";12;1,3;"Nein";"Ja";0;"stark";"gar nicht";199;102
+21;"m‰nnlich";4;"BWL";"BY";"4";"TRUE";10;9;"Nein";"Nein";0;"stark";"gar nicht";199;101
+22;"m‰nnlich";4;"BWL";"BY";"4";"TRUE";8,6;5;"Nein";"Nein";NA;"sehr stark";"m‰ﬂig wichtig";192;96
+22;"m‰nnlich";2;"POL";"BY";"4";"FALSE";0;5;"Nein";"Nein";0;"stark";"m‰ﬂig wichtig";172;74
+23;"weiblich";6;"SOZ";"SN";"3";"TRUE";20;5;"Nein";"Nein";0;NA;"m‰ﬂig wichtig";155;58
+31;"m‰nnlich";6;NA;"BE";"5";"TRUE";10;1;"Nein";"Nein";24;"stark";"wenig wichtig";189;94
+23;"m‰nnlich";4;"POL";"BY";"3";"TRUE";10;3,5;"Nein";"Ja";NA;"m‰ﬂig";"gar nicht";204;110
+20;"weiblich";2;"POL";"BY";"3";"TRUE";25;1;"Nein";"Nein";7;"stark";"m‰ﬂig wichtig";178;85
+21;"m‰nnlich";2;"POL";"RP";"4";"TRUE";10;2;"Nein";"Nein";0;"stark";"gar nicht";197;101
+27;"m‰nnlich";2;"WiP‰d";"BY";"3";"TRUE";12;2;"Nein";"Ja";13;"sehr stark";"wenig wichtig";156;62
+21;"m‰nnlich";2;"WI";"BY";"3";"TRUE";14,5;5;"Nein";"Nein";10;"stark";"wichtig";163;70
+23;"m‰nnlich";6;"BWL";"BW";"4";"TRUE";13;3;"Nein";"Nein";5;"stark";"gar nicht";153;59
+25;"m‰nnlich";4;"WiP‰d";"TH";"3";"TRUE";3;5;"Nein";"Ja";15;"stark";"wichtig";166;72
+22;"weiblich";4;"WiP‰d";"BY";"5";"TRUE";30;3,5;"Nein";"Nein";0;"stark";"gar nicht";189;93
+27;"weiblich";4;"WiP‰d";"BW";"3";"TRUE";36;2;"Nein";"Ja";22,5;"m‰ﬂig";"m‰ﬂig wichtig";179;87
+24;"weiblich";4;"WiP‰d";"BY";"5";"TRUE";10;1,5;"Nein";"Ja";0;"sehr stark";"wenig wichtig";199;104
+31;"weiblich";5;"WiP‰d";"TH";"5";"TRUE";25;2;"Nein";"Ja";0;"stark";"gar nicht";160;63
+NA;"m‰nnlich";4;"WI";"Ausland";"1";"TRUE";NA;NA;NA;NA;NA;"stark";"wenig wichtig";180;86
+21;"m‰nnlich";4;"Anderes";"BY";"2";"FALSE";0;4;"Nein";"Ja";NA;"stark";"wichtig";165;71
+21;"m‰nnlich";1;"SOZ";"BE";"4";"FALSE";15;1,5;"Nein";"Ja";15;"stark";"wenig wichtig";152;57
+24;"m‰nnlich";1;"SOZ";"BW";"5";"FALSE";20;2;"Nein";"Ja";2;"stark";"wichtig";204;109
+31;"m‰nnlich";2;"WiP‰d";"BY";"3";"TRUE";13;0;"Nein";"Nein";0;"sehr stark";"wenig wichtig";197;102
+20;"weiblich";2;"WiP‰d";"BY";"2";"TRUE";0;3;"Nein";"Ja";2;"stark";"gar nicht";153;59
+21;"m‰nnlich";2;"WI";"NW";"3";"TRUE";5;4;"Nein";"Nein";3;"stark";"m‰ﬂig wichtig";162;68
+25;"m‰nnlich";2;"WiP‰d";NA;"1";"TRUE";0;10;"Nein";"Ja";13;"stark";"m‰ﬂig wichtig";177;80
+24;"m‰nnlich";2;"WiP‰d";"BY";"2";"TRUE";0;1,5;"Nein";"Ja";0;"stark";"m‰ﬂig wichtig";194;99
+21;"m‰nnlich";2;"WI";"BY";"3";"TRUE";20;6;"Nein";"Nein";20;"stark";"wichtig";170;74
+23;"m‰nnlich";4;"SOZ";"BY";"4";"TRUE";13;5;"Nein";"Ja";NA;"stark";"wichtig";194;97
+NA;"weiblich";NA;"SOZ";"BY";"2";"TRUE";30;0;"Ja";"Nein";NA;"m‰ﬂig";"wichtig";158;61
+23;"weiblich";2;"BWL";"BY";"4";NA;15;7;"Nein";"Nein";9;"stark";"wichtig";165;69
+24;"m‰nnlich";1;"WI";"BY";"5";"TRUE";15;1;"Nein";"Nein";15;"sehr stark";"wenig wichtig";156;57
+NA;"m‰nnlich";2;"BWL";"BW";"2";"FALSE";0;10;"Nein";"Nein";NA;"m‰ﬂig";"m‰ﬂig wichtig";187;90
+22;"m‰nnlich";1;"BWL";"BY";"5";"TRUE";16;2;"Nein";"Nein";8;"sehr stark";"m‰ﬂig wichtig";157;61

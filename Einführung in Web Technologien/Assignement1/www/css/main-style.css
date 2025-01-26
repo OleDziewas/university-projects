@@ -1,0 +1,14 @@
+:root {
+  --primary-background-color: black;
+  --secondary-background-color: orange;
+  --main-text-color: white;
+  --footer-background-color: #343640;
+}
+
+* {
+  box-sizing: border-box;
+  background-color: var(--primary-background-color);
+  font-family: sans-serif;
+  color: var(--main-text-color);
+  margin: 0;
+}

@@ -1,0 +1,21 @@
+\documentclass[border=5pt]{standalone}
+\usepackage{pgfplots}
+
+%% from https://tex.stackexchange.com/questions/448514/graph-from-csv-table-col-sep-comma-with-pgfplotsinvokeforeach
+\newcommand{\plotfile}[1]{
+        \pgfplotstableread[col sep=comma]{#1}{\table}
+        \pgfplotstablegetcolsof{\table}
+        \pgfmathtruncatemacro\numberofcols{\pgfplotsretval-1}
+        \pgfplotsinvokeforeach{1,...,\numberofcols}{
+            \pgfplotstablegetcolumnnamebyindex{##1}\of{\table}\to{\colname}
+            \addplot table [y index=##1] {\table};
+            \addlegendentryexpanded{\colname}
+        }
+    }
+\begin{document}
+\begin{tikzpicture}
+    \begin{axis}[patch type=cubic spline,legend pos=north west]
+        \plotfile{results.dat}
+    \end{axis}
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,51 @@
+@import url("main-style.css");
+
+:root {
+  --footer-background-color: #343640;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+main {
+  margin: 8vh 0;
+}
+
+h1 {
+  margin: 50px;
+  font-size: 3.5em;
+}
+
+article {
+  margin: 30px 70px;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin: 20px 0;
+}
+
+h3 {
+  font-size: 1.3em;
+  margin: 15px 0;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 1.1em;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 20px 70px;
+  background-color: var(--footer-background-color);
+}
+
+footer a,
+footer p {
+  background-color: var(--footer-background-color);
+}

@@ -1,0 +1,8 @@
+xmlfun/Position.java
+ xmlfun.Position
+xmlfun/Person.java
+ xmlfun.Person
+xmlfun/Firma.java
+ xmlfun.Firma
+xmlfun/Main.java
+ xmlfun.Main

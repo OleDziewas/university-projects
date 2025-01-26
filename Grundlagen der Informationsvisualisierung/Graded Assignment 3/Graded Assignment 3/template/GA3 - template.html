@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Graph Visualization</title>
+    <script src="d3.v7.min.js"></script>
+    <script src="graphScript.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<p>Ole Elija Dziewas</p>
+<h1>Graph Visualization</h1>
+<p>Graded Homework Assignment 03</p>
+<p>Lecture <i>Grundlagen der Informationsvisualisierung</i>, University of Bamberg, summer semester 2024</p>
+
+
+<svg ></svg>
+<div id="selection_details"></div>
+
+
+<h2>Explanations:</h2>
+<p>
+    <b>Task (1)</b>
+    <ul>
+        <li>The node size encodes the number of medals won by each country.</li>
+        <li>The size of the categories is encoded by the number of participants.</li>
+        <li>The thicknis of a link depicts how many unique athletes of a country have won medals in a specific category.</li>
+    </ul>
+    <b>Task (2)</b>
+    <ul>
+        <li>For better readability the smaller subgroup (categories) of the bipartite graph was put in the center. The larger subgroup (countries) was put around it with a certain distance to have less overlapping.</li>
+        <li>Instead of removing nodes and links you can click on a node to get only the relevant links to that node. By clicking elsewhere or again on that node it goes back to the original view.</li>
+    </ul>
+</p>
+
+<h2>References</h2>
+
+<ul>
+    <li><a href="https://developer.mozilla.org/en-US/">Mozilla Developer Resources</a></li>
+    <li>GPT-4o</li>
+</ul>
+</body>
+</html>

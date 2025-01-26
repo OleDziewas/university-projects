@@ -1,0 +1,59 @@
+#Initialisierung von n
+movi r1,4
+#Initialisierung Stack Pointer
+movi r14, 0
+subi r14, 1
+
+call fib
+halt
+
+#Fibonacci Funktion
+fib:
+
+#push r15
+subi r14, 2
+stw r15, r14
+
+#Wenn n==1 oder n== 2
+movi r12, 3
+mov r2, r1
+mov r0, r1
+cmplt r2, r12
+bt fib_sonst
+cmplt r0, r12
+bt fib_sonst
+#Aufrufe der rekursiven Funktionen
+
+subi r2, 2
+call fib
+subi r0,1
+call fib
+
+#pop a
+ldw r3, r14
+addi r14, 2
+#pop b
+ldw r4, r14
+addi r14,2
+
+#addu a+b
+addu r3, r4
+#push a+b
+mov r1, r3
+#br fib_ende
+br fib_ende
+
+#fib_sonst (Base Case)
+fib_sonst:
+movi r1, 1
+
+#fib Funktionsende:
+fib_ende:
+#pop r15
+ldw r15, r14
+#push r1
+stw r1, r14
+jmp r15
+
+
+

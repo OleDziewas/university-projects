@@ -1,0 +1,25 @@
+#filter-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 70%;
+  margin: 30px auto;
+}
+
+.filter {
+  font-family: monospace;
+  background-color: #121212;
+  border-radius: 7px;
+  font-size: 1.5em;
+  margin-left: 100px;
+  padding: 6px;
+  color: white;
+  border: none;
+  width: 30%;
+}
+
+@media only screen and (max-width: 1000px) {
+  .filter {
+    width: 25vw;
+  }
+}

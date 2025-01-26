@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>GOTO MARS</title>
+    <script src="./js/app.js" type="module" async></script>
+    <script src="./js/countdown.js" type="module" async></script>
+    <script src="./js/loadInitialPage.js" type="module" async></script>
+    <script src="./js/applyFilter.js"></script>
+    <link rel="stylesheet" href="./css/main-style.css">
+    <link rel="stylesheet" href="./css/date.css">
+    <link rel="stylesheet" href="./css/flights.css">
+    <link rel="stylesheet" href="./css/filter.css">
+    <link rel="stylesheet" href="./css/loading-bar.css">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+  </head>
+  <body>
+    <header>
+      <div id="logo"></div>
+      <div id="logotext">
+        <h1>GOTO MARS</h1>
+        <p>WIR BESIEDELN DEN MARS</p>
+      </div>
+    </header>
+    <main>
+      <div id="flight-div">
+        <div id="filter-div">
+          <select class="filter" id="location-filter" onchange="applyFilter()">
+            <option value="" hidden>Launchsite</option>
+          </select>
+          <select class="filter" id="sorter" onchange="applyFilter()">
+            <option value="" hidden>Sort by</option>
+          </select>
+        </div>
+        <div id="loading-bar" class="moving-square-line">
+          <div class="moving-square-line__base-square">
+            <div class="moving-square-line__inner-square"></div>
+          </div>
+        </div>
+        <div id="flight-list"></div>
+      </div>
+
+      <aside>
+        <div id="date-div">
+          <p>Next Launch in</p>
+          <div id="date-values">
+            <p id="days"></p>
+            <p id="hours"></p>
+            <p id="minutes"></p>
+            <p id="seconds"></p>
+          </div>
+          <div id="date-types">
+            <p>D</p>
+            <p>H</p>
+            <p>M</p>
+            <p>S</p>
+          </div>
+        </div>
+      </aside>
+    </main>
+    <!-- Hier immer Ladekreis nur visibility ändern-->
+  </body>
+</html>

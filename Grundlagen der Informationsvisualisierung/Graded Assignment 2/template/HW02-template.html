@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Timeline Visualization of Satellite Launches</title>
+    <script src="d3.v7.min.js"></script>
+    <style>
+        body {
+            margin: 50px;
+            font-family: Arial;
+        }
+    </style>
+</head>
+<body>
+    <p>Ole Elija Dziewas</p>
+	<h1>Timeline Visualization of Satellite Launches</h1>
+    <p>Graded Homework Assignment 02</p>
+    <p>Lecture <i> Grundlagen der Informationsvisualisierung</i> , University of Bamberg, summer semester 2024</p>
+
+    <svg id="visSvg">
+
+    </svg>
+
+    <h2>Encoded Attributes:</h2>
+
+    <ul>
+        <li>Attribute 1: - Launch Mass, encoded by size. Shows the size of satellites launched from each launch site.</li>
+        <li>Attribute 2: - Users, encoded by color (Multiple attributes are encoded by the first one). Shows which launch site launches satellites for which group of Users
+            <ul>
+                <li style="color: #1f77b4">Commercial - Blue</li>
+                <li style="color: #ff7f0e">Civil - Orange</li>
+                <li style="color: #d62728">Military - Red</li>
+                <li style="color: #2ca02c">Government - Green</li>
+            </ul>
+        </li>
+        <li>Attribute 3: - Class of Orbit, encoded by form. Indicates the height of each satellite by visualizing the class of orbit.
+            <ul>
+                <li>LEO - Circle</li>
+                <li>MEO - Rectangle</li>
+                <li>GEO - Triangle</li>
+                <li>Elliptical - Diamond</li>
+            </ul>
+        </li>
+        
+    </ul>
+
+    <h2>Interaction:</h2>
+
+    <ul>
+        <li>Tooltip that shows name, operator and mass value of the glyph hovered over.</li>
+    </ul>
+
+    <h2>Observed Insight:</h2>
+    <p>
+        There is a lot of information that can be gathered by exploring this visualization. For example that Cape Canaveral is the most important launch site, with the most, earliest and latest launches.
+        You can also see that launch sites like Plesetsk Cosmodrome are focused on a military use of satellites while Taiyuan Launch Center focuses on governmental launches.
+        Especially in the last years there seems to be a trend for light satellites in LEO used for commercial purposes.
+    </p>
+
+    <h2>Comments or Explanations:</h2>
+    <p>
+        To prevent huge overlaps, the glyphes of every launch site are distributed by a random y-term around the line.
+    </p>
+
+    <h2>References</h2>
+
+    <ul>
+        <li><a href="https://developer.mozilla.org/en-US/">Mozilla Docs</a></li>
+        <li><a href="https://d3-graph-gallery.com/graph/interactivity_tooltip.html">Building tooltips with d3.js</a></li>
+        <li><a href="https://codepen.io/manglass/pen/MvLBRz">d3.timeline</a></li>
+        <li>GPT-3.5 and GPT-4o</li>
+    </ul>
+</body>
+<script>
+    window.onload = function(){
+        // Please feel free to modify any part of the code in the template, if it helps in coding your solution.
+        // For instance, converting the data type of individual attributes while loading the csv data file.
+        d3.csv("satellites.csv")
+            .then(function(data)
+        {
+            /* Layout constants */
+            let width = 960,
+                height = 700,
+                margin = { top: 0, right:0, bottom: 0, left: 150 };
+
+            /* Initialization of SVG graphics */
+            let svg = d3.select("#visSvg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            console.log(data);
+
+            let launchSites = ["Baikonur Cosmodrome", "Cape Canaveral", "Dombarovsky Air Base", "Guiana Space Center", "International Space Station", "Jiuquan Satellite Launch Center", "Plesetsk Cosmodrome", "Satish Dhawan Space Centre", "Taiyuan Launch Center", "Tanegashima Space Center", "Vandenberg AFB"];
+            //Your code goes here
+            
+            // Change data to better fit the automation
+            let parseDate = d3.timeParse("%d/%m/%Y");
+            data.forEach(d => {
+                d["Date of Launch"] = parseDate(d["Date of Launch"]);
+            });
+            data.forEach(d => {
+                d["Users"] = d["Users"].split("/")[0].trim();
+            });
+            data.forEach(d => {
+                d["Class of Orbit"] = d["Class of Orbit"].toUpperCase();
+            });
+            
+            // Filter values with null-values
+            data = data.filter(d => launchSites.includes(d["Launch Site"]));
+            data = data.filter(d => launchSites.includes(d["Launch Site"]));
+            data = data.filter(d => d["Launch Mass (kg.)"] != "");
+            data = data.filter(d => d["Date of Launch"]?.getFullYear() >= 1975);
+
+            // Get types of users and orbit class for form and color of glyphes
+            let users = [...new Set(data.map(item => item["Users"]))];
+            
+            // Prepare and draw axis
+            let x = d3.scaleTime().range([0, width-margin.left]);
+            let y = d3.scaleBand(launchSites, [0, height]).padding(0.8);
+            x.domain(d3.extent(data, d => d["Date of Launch"]));
+
+            let xAxis = d3.axisBottom(x)
+                .ticks(d3.timeYear.every(5))
+                .tickFormat(d3.timeFormat("%Y"));
+
+            svg.append("g")
+                .attr("transform", `translate(0,0)`)
+                .call(xAxis);
+
+            svg.append("g")
+                .call(d3.axisLeft(y));
+
+            // Draw horizontal lines
+            svg.append("g")
+                .attr("class", "grid")
+                .selectAll("line")
+                .data(y.domain())
+                .enter()
+                .append("line")
+                .attr("x1", 0)
+                .attr("x2", width)
+                .attr("y1", d => y(d) + y.bandwidth() / 2)
+                .attr("y2", d => y(d) + y.bandwidth() / 2)
+                .attr("stroke", "lightgrey")
+
+            
+            // Sort data by launch mass so that large circles do lie over small circles
+            data = data.sort((a, b) => (parseInt(b["Launch Mass (kg.)"].replace(",", "")) - parseInt(a["Launch Mass (kg.)"].replace(",", ""))));
+            
+            const colorScale = d3.scaleOrdinal()
+                .domain(users)
+                .range(['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728']);
+
+            // Add the glyphes
+            for (let d of data){
+                let transformValue = `translate(${x(d["Date of Launch"])},${y(d["Launch Site"]) + y.bandwidth() / 2 + ((Math.random() - 0.5) * 30)})`;
+                let size = Math.sqrt(parseInt(d["Launch Mass (kg.)"].replace(",", ""))) / 8;
+                let color = colorScale(d["Users"]);
+                let name = d["Current Official Name of Satellite"];
+                let operator = d["Country of Operator/Owner"];
+                let mass = d["Launch Mass (kg.)"];
+
+                switch (d["Class of Orbit"]) {
+                    case 'LEO':
+                        svg.append("circle")
+                            .attr("transform", transformValue)
+                            .attr("r", size)
+                            .attr("fill", color)
+                            .attr("stroke", "black") // Border color
+                            .attr("stroke-width", 0.4)
+                            .attr("name", name)
+                            .attr("operator", operator)
+                            .attr("mass", mass);
+                        break;
+                    case 'MEO':
+                        svg.append("rect")
+                            .attr("transform", transformValue)
+                            .attr("width", size * 2)
+                            .attr("height", size * 2)
+                            .attr("x", -size)
+                            .attr("y", -size)
+                            .attr("fill", color)
+                            .attr("stroke", "black") // Border color
+                            .attr("stroke-width", 0.4)
+                            .attr("name", name)
+                            .attr("operator", operator)
+                            .attr("mass", mass);
+                        break;
+                    case 'GEO':
+                        svg.append("polygon")
+                            .attr("transform", transformValue)
+                            .attr("points", `${-size},${size} ${size},${size} 0,${-size}`)
+                            .attr("fill", color)
+                            .attr("stroke", "black") // Border color
+                            .attr("stroke-width", 0.4)
+                            .attr("name", name)
+                            .attr("operator", operator)
+                            .attr("mass", mass);
+                        break;
+                    case 'ELLIPTICAL':
+                        svg.append("polygon")
+                            .attr("transform", transformValue)
+                            .attr("points", `0,${-size} ${size},0 0,${size} ${-size},0`)
+                            .attr("fill", color)
+                            .attr("stroke", "black") // Border color
+                            .attr("stroke-width", 0.4)
+                            .attr("name", name)
+                            .attr("operator", operator)
+                            .attr("mass", mass);
+                        break;
+                        
+                }
+            }
+            
+            // Add interactive tooltip to show more information like name, operator and the mass value
+            const tooltip = d3.select("body").append("div")
+                .attr("style", "background-color: white; border: 1px solid black; padding: 5px; opacity: 0")
+
+            svg.selectAll("circle, rect, polygon")
+                .on("mouseover", function(event) {
+                    tooltip.transition().duration(200).style("opacity", 1);
+                    tooltip.html(`Name: ${event.target.getAttribute("name")}<br/>Operator: ${event.target.getAttribute("operator")}<br/>Mass: ${event.target.getAttribute("mass").replace(",", "")} kg`)
+                        .style("position", "fixed")
+                        .style("left",  event.clientX + "px")
+                        .style("top",  (event.clientY+30)+"px");
+                        
+                })
+                .on("mouseout", function(d) {
+                    tooltip.transition().duration(500).style("opacity", 0);
+                });
+        });
+    };
+
+    
+</script>
+
+</html>

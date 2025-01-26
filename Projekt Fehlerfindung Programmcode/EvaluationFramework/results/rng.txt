@@ -1,0 +1,2500 @@
+Testing with 1 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4504
+> recall: 0.8617
+> f1_score: 0.5916
+> accuracy: 0.5673
+> worst_exam: 0.6620
+> best_exam: 0.2936
+> mean_time_ms: 0.0340
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6233
+> recall: 0.7556
+> f1_score: 0.6831
+> accuracy: 0.7450
+> worst_exam: 0.4994
+> best_exam: 0.2491
+> mean_time_ms: 155.4185
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4504
+> recall: 0.8617
+> f1_score: 0.5916
+> accuracy: 0.5673
+> worst_exam: 0.6620
+> best_exam: 0.2936
+> mean_time_ms: 0.0214
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4504
+> recall: 0.8617
+> f1_score: 0.5916
+> accuracy: 0.5673
+> worst_exam: 0.6620
+> best_exam: 0.2936
+> mean_time_ms: 0.0109
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4504
+> recall: 0.8617
+> f1_score: 0.5916
+> accuracy: 0.5673
+> worst_exam: 0.6620
+> best_exam: 0.2936
+> mean_time_ms: 0.0093
+Took 26.802427530288696 to test with 1 test cases
+Testing with 11 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4434
+> recall: 0.7058
+> f1_score: 0.5447
+> accuracy: 0.5708
+> worst_exam: 0.6070
+> best_exam: 0.2906
+> mean_time_ms: 0.0682
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5068
+> recall: 0.6543
+> f1_score: 0.5712
+> accuracy: 0.6427
+> worst_exam: 0.5322
+> best_exam: 0.2795
+> mean_time_ms: 184.6114
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5130
+> recall: 0.6640
+> f1_score: 0.5788
+> accuracy: 0.6485
+> worst_exam: 0.5439
+> best_exam: 0.2772
+> mean_time_ms: 0.0326
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4366
+> recall: 0.6527
+> f1_score: 0.5232
+> accuracy: 0.5673
+> worst_exam: 0.6058
+> best_exam: 0.2924
+> mean_time_ms: 0.0198
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4429
+> recall: 0.6801
+> f1_score: 0.5365
+> accuracy: 0.5725
+> worst_exam: 0.6105
+> best_exam: 0.2924
+> mean_time_ms: 0.0181
+Took 36.73539876937866 to test with 11 test cases
+Testing with 21 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4362
+> recall: 0.6742
+> f1_score: 0.5297
+> accuracy: 0.5645
+> worst_exam: 0.5844
+> best_exam: 0.2901
+> mean_time_ms: 0.1115
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4534
+> recall: 0.6731
+> f1_score: 0.5418
+> accuracy: 0.5860
+> worst_exam: 0.5731
+> best_exam: 0.2827
+> mean_time_ms: 232.0148
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5653
+> recall: 0.6217
+> f1_score: 0.5921
+> accuracy: 0.6885
+> worst_exam: 0.4916
+> best_exam: 0.2616
+> mean_time_ms: 0.0497
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4543
+> recall: 0.6238
+> f1_score: 0.5257
+> accuracy: 0.5906
+> worst_exam: 0.5957
+> best_exam: 0.2717
+> mean_time_ms: 0.0318
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4459
+> recall: 0.6581
+> f1_score: 0.5316
+> accuracy: 0.5782
+> worst_exam: 0.5949
+> best_exam: 0.2819
+> mean_time_ms: 0.0299
+Took 56.16179919242859 to test with 21 test cases
+Testing with 31 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4310
+> recall: 0.6503
+> f1_score: 0.5184
+> accuracy: 0.5605
+> worst_exam: 0.5778
+> best_exam: 0.2947
+> mean_time_ms: 0.1458
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4410
+> recall: 0.6704
+> f1_score: 0.5321
+> accuracy: 0.5711
+> worst_exam: 0.5933
+> best_exam: 0.2784
+> mean_time_ms: 244.9969
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5495
+> recall: 0.5932
+> f1_score: 0.5705
+> accuracy: 0.6751
+> worst_exam: 0.4909
+> best_exam: 0.2626
+> mean_time_ms: 0.0637
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4513
+> recall: 0.5997
+> f1_score: 0.5150
+> accuracy: 0.5892
+> worst_exam: 0.6079
+> best_exam: 0.2538
+> mean_time_ms: 0.0420
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4334
+> recall: 0.6326
+> f1_score: 0.5144
+> accuracy: 0.5655
+> worst_exam: 0.6088
+> best_exam: 0.2769
+> mean_time_ms: 0.0398
+Took 48.872477293014526 to test with 31 test cases
+Testing with 41 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4337
+> recall: 0.6418
+> f1_score: 0.5176
+> accuracy: 0.5649
+> worst_exam: 0.5731
+> best_exam: 0.2936
+> mean_time_ms: 0.1895
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4258
+> recall: 0.6772
+> f1_score: 0.5228
+> accuracy: 0.5504
+> worst_exam: 0.6110
+> best_exam: 0.2849
+> mean_time_ms: 257.3621
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5672
+> recall: 0.5756
+> f1_score: 0.5713
+> accuracy: 0.6858
+> worst_exam: 0.4716
+> best_exam: 0.2632
+> mean_time_ms: 0.0768
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4569
+> recall: 0.5859
+> f1_score: 0.5134
+> accuracy: 0.5960
+> worst_exam: 0.5958
+> best_exam: 0.2550
+> mean_time_ms: 0.0515
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4419
+> recall: 0.6167
+> f1_score: 0.5149
+> accuracy: 0.5773
+> worst_exam: 0.5974
+> best_exam: 0.2739
+> mean_time_ms: 0.0490
+Took 52.90646481513977 to test with 41 test cases
+Testing with 51 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4353
+> recall: 0.6324
+> f1_score: 0.5156
+> accuracy: 0.5678
+> worst_exam: 0.5688
+> best_exam: 0.2926
+> mean_time_ms: 0.2281
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4157
+> recall: 0.6779
+> f1_score: 0.5154
+> accuracy: 0.5363
+> worst_exam: 0.6218
+> best_exam: 0.2893
+> mean_time_ms: 264.4728
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5842
+> recall: 0.5595
+> f1_score: 0.5716
+> accuracy: 0.6949
+> worst_exam: 0.4614
+> best_exam: 0.2628
+> mean_time_ms: 0.0906
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4658
+> recall: 0.5761
+> f1_score: 0.5151
+> accuracy: 0.6055
+> worst_exam: 0.5877
+> best_exam: 0.2507
+> mean_time_ms: 0.0603
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4472
+> recall: 0.6040
+> f1_score: 0.5139
+> accuracy: 0.5844
+> worst_exam: 0.5899
+> best_exam: 0.2719
+> mean_time_ms: 0.0574
+Took 51.828742265701294 to test with 51 test cases
+Testing with 61 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4352
+> recall: 0.6220
+> f1_score: 0.5121
+> accuracy: 0.5689
+> worst_exam: 0.5654
+> best_exam: 0.2919
+> mean_time_ms: 0.2672
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4070
+> recall: 0.6748
+> f1_score: 0.5078
+> accuracy: 0.5241
+> worst_exam: 0.6304
+> best_exam: 0.2922
+> mean_time_ms: 268.9175
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5972
+> recall: 0.5475
+> f1_score: 0.5713
+> accuracy: 0.7011
+> worst_exam: 0.4543
+> best_exam: 0.2625
+> mean_time_ms: 0.1022
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4623
+> recall: 0.5655
+> f1_score: 0.5087
+> accuracy: 0.6027
+> worst_exam: 0.5813
+> best_exam: 0.2565
+> mean_time_ms: 0.0687
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4464
+> recall: 0.5916
+> f1_score: 0.5089
+> accuracy: 0.5846
+> worst_exam: 0.5840
+> best_exam: 0.2747
+> mean_time_ms: 0.0652
+Took 51.117262840270996 to test with 61 test cases
+Testing with 71 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4376
+> recall: 0.6218
+> f1_score: 0.5137
+> accuracy: 0.5718
+> worst_exam: 0.5633
+> best_exam: 0.2917
+> mean_time_ms: 0.3098
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4031
+> recall: 0.6797
+> f1_score: 0.5061
+> accuracy: 0.5174
+> worst_exam: 0.6370
+> best_exam: 0.2946
+> mean_time_ms: 271.5601
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6097
+> recall: 0.5406
+> f1_score: 0.5731
+> accuracy: 0.7070
+> worst_exam: 0.4484
+> best_exam: 0.2623
+> mean_time_ms: 0.1144
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4649
+> recall: 0.5619
+> f1_score: 0.5088
+> accuracy: 0.6054
+> worst_exam: 0.5769
+> best_exam: 0.2572
+> mean_time_ms: 0.0774
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4477
+> recall: 0.5884
+> f1_score: 0.5085
+> accuracy: 0.5863
+> worst_exam: 0.5803
+> best_exam: 0.2768
+> mean_time_ms: 0.0738
+Took 50.30902075767517 to test with 71 test cases
+Testing with 81 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4384
+> recall: 0.6177
+> f1_score: 0.5128
+> accuracy: 0.5731
+> worst_exam: 0.5613
+> best_exam: 0.2914
+> mean_time_ms: 0.3811
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.3986
+> recall: 0.6792
+> f1_score: 0.5024
+> accuracy: 0.5106
+> worst_exam: 0.6421
+> best_exam: 0.2964
+> mean_time_ms: 274.0694
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6211
+> recall: 0.5352
+> f1_score: 0.5749
+> accuracy: 0.7122
+> worst_exam: 0.4413
+> best_exam: 0.2604
+> mean_time_ms: 0.1250
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4706
+> recall: 0.5570
+> f1_score: 0.5101
+> accuracy: 0.6109
+> worst_exam: 0.5728
+> best_exam: 0.2542
+> mean_time_ms: 0.0852
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4512
+> recall: 0.5816
+> f1_score: 0.5082
+> accuracy: 0.5905
+> worst_exam: 0.5761
+> best_exam: 0.2751
+> mean_time_ms: 0.0811
+Took 51.05435824394226 to test with 81 test cases
+Testing with 91 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4416
+> recall: 0.6492
+> f1_score: 0.5256
+> accuracy: 0.5738
+> worst_exam: 0.5680
+> best_exam: 0.2911
+> mean_time_ms: 0.4142
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4041
+> recall: 0.7042
+> f1_score: 0.5135
+> accuracy: 0.5147
+> worst_exam: 0.6412
+> best_exam: 0.2979
+> mean_time_ms: 282.3950
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6269
+> recall: 0.5328
+> f1_score: 0.5760
+> accuracy: 0.7147
+> worst_exam: 0.4333
+> best_exam: 0.2588
+> mean_time_ms: 0.1336
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4705
+> recall: 0.5514
+> f1_score: 0.5078
+> accuracy: 0.6111
+> worst_exam: 0.5703
+> best_exam: 0.2547
+> mean_time_ms: 0.0902
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4535
+> recall: 0.5817
+> f1_score: 0.5096
+> accuracy: 0.5929
+> worst_exam: 0.5711
+> best_exam: 0.2738
+> mean_time_ms: 0.0860
+Took 61.834084033966064 to test with 91 test cases
+Testing with 101 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4418
+> recall: 0.6428
+> f1_score: 0.5237
+> accuracy: 0.5747
+> worst_exam: 0.5657
+> best_exam: 0.2909
+> mean_time_ms: 0.4341
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4029
+> recall: 0.7241
+> f1_score: 0.5177
+> accuracy: 0.5093
+> worst_exam: 0.6533
+> best_exam: 0.2991
+> mean_time_ms: 283.4171
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6327
+> recall: 0.5267
+> f1_score: 0.5749
+> accuracy: 0.7166
+> worst_exam: 0.4313
+> best_exam: 0.2590
+> mean_time_ms: 0.1440
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4709
+> recall: 0.5472
+> f1_score: 0.5062
+> accuracy: 0.6117
+> worst_exam: 0.5678
+> best_exam: 0.2553
+> mean_time_ms: 0.0982
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4527
+> recall: 0.5759
+> f1_score: 0.5069
+> accuracy: 0.5925
+> worst_exam: 0.5688
+> best_exam: 0.2754
+> mean_time_ms: 0.0932
+Took 51.05475187301636 to test with 101 test cases
+Testing with 111 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4367
+> recall: 0.6659
+> f1_score: 0.5275
+> accuracy: 0.5661
+> worst_exam: 0.5795
+> best_exam: 0.2907
+> mean_time_ms: 0.4856
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4068
+> recall: 0.7412
+> f1_score: 0.5253
+> accuracy: 0.5128
+> worst_exam: 0.6517
+> best_exam: 0.3001
+> mean_time_ms: 296.0456
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6364
+> recall: 0.5263
+> f1_score: 0.5761
+> accuracy: 0.7183
+> worst_exam: 0.4258
+> best_exam: 0.2578
+> mean_time_ms: 0.1575
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4720
+> recall: 0.5445
+> f1_score: 0.5057
+> accuracy: 0.6128
+> worst_exam: 0.5655
+> best_exam: 0.2557
+> mean_time_ms: 0.1083
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4532
+> recall: 0.5745
+> f1_score: 0.5067
+> accuracy: 0.5931
+> worst_exam: 0.5658
+> best_exam: 0.2743
+> mean_time_ms: 0.1026
+Took 75.53380250930786 to test with 111 test cases
+Testing with 121 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4326
+> recall: 0.6854
+> f1_score: 0.5304
+> accuracy: 0.5586
+> worst_exam: 0.5915
+> best_exam: 0.2906
+> mean_time_ms: 0.5338
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4104
+> recall: 0.7566
+> f1_score: 0.5321
+> accuracy: 0.5161
+> worst_exam: 0.6503
+> best_exam: 0.3009
+> mean_time_ms: 307.5377
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6384
+> recall: 0.5254
+> f1_score: 0.5764
+> accuracy: 0.7191
+> worst_exam: 0.4229
+> best_exam: 0.2580
+> mean_time_ms: 0.1718
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4725
+> recall: 0.5424
+> f1_score: 0.5051
+> accuracy: 0.6133
+> worst_exam: 0.5640
+> best_exam: 0.2560
+> mean_time_ms: 0.1194
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4532
+> recall: 0.5731
+> f1_score: 0.5061
+> accuracy: 0.5932
+> worst_exam: 0.5636
+> best_exam: 0.2733
+> mean_time_ms: 0.1131
+Took 77.33449697494507 to test with 121 test cases
+Testing with 131 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4335
+> recall: 0.6782
+> f1_score: 0.5289
+> accuracy: 0.5606
+> worst_exam: 0.5880
+> best_exam: 0.2905
+> mean_time_ms: 0.5640
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4074
+> recall: 0.7513
+> f1_score: 0.5283
+> accuracy: 0.5120
+> worst_exam: 0.6525
+> best_exam: 0.3017
+> mean_time_ms: 306.3936
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6447
+> recall: 0.5234
+> f1_score: 0.5778
+> accuracy: 0.7217
+> worst_exam: 0.4203
+> best_exam: 0.2571
+> mean_time_ms: 0.1832
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4732
+> recall: 0.5411
+> f1_score: 0.5049
+> accuracy: 0.6140
+> worst_exam: 0.5627
+> best_exam: 0.2562
+> mean_time_ms: 0.1276
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4548
+> recall: 0.5696
+> f1_score: 0.5058
+> accuracy: 0.5951
+> worst_exam: 0.5624
+> best_exam: 0.2724
+> mean_time_ms: 0.1202
+Took 50.969237089157104 to test with 131 test cases
+Testing with 141 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4402
+> recall: 0.6924
+> f1_score: 0.5382
+> accuracy: 0.5679
+> worst_exam: 0.5828
+> best_exam: 0.2912
+> mean_time_ms: 0.6202
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4119
+> recall: 0.7618
+> f1_score: 0.5347
+> accuracy: 0.5177
+> worst_exam: 0.6536
+> best_exam: 0.2980
+> mean_time_ms: 317.0445
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6489
+> recall: 0.5222
+> f1_score: 0.5787
+> accuracy: 0.7234
+> worst_exam: 0.4167
+> best_exam: 0.2573
+> mean_time_ms: 0.1972
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4734
+> recall: 0.5395
+> f1_score: 0.5043
+> accuracy: 0.6142
+> worst_exam: 0.5616
+> best_exam: 0.2566
+> mean_time_ms: 0.1385
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4563
+> recall: 0.5698
+> f1_score: 0.5068
+> accuracy: 0.5966
+> worst_exam: 0.5595
+> best_exam: 0.2717
+> mean_time_ms: 0.1293
+Took 81.14548206329346 to test with 141 test cases
+Testing with 151 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4418
+> recall: 0.7076
+> f1_score: 0.5440
+> accuracy: 0.5684
+> worst_exam: 0.5860
+> best_exam: 0.2910
+> mean_time_ms: 0.7155
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4143
+> recall: 0.7731
+> f1_score: 0.5395
+> accuracy: 0.5200
+> worst_exam: 0.6525
+> best_exam: 0.2988
+> mean_time_ms: 326.4732
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6522
+> recall: 0.5227
+> f1_score: 0.5803
+> accuracy: 0.7250
+> worst_exam: 0.4130
+> best_exam: 0.2565
+> mean_time_ms: 0.2125
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4752
+> recall: 0.5376
+> f1_score: 0.5045
+> accuracy: 0.6159
+> worst_exam: 0.5604
+> best_exam: 0.2556
+> mean_time_ms: 0.1505
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4563
+> recall: 0.5699
+> f1_score: 0.5068
+> accuracy: 0.5966
+> worst_exam: 0.5565
+> best_exam: 0.2730
+> mean_time_ms: 0.1401
+Took 81.56594896316528 to test with 151 test cases
+Testing with 161 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4427
+> recall: 0.7029
+> f1_score: 0.5432
+> accuracy: 0.5701
+> worst_exam: 0.5837
+> best_exam: 0.2909
+> mean_time_ms: 0.7586
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4123
+> recall: 0.7696
+> f1_score: 0.5369
+> accuracy: 0.5172
+> worst_exam: 0.6542
+> best_exam: 0.2995
+> mean_time_ms: 326.0998
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6549
+> recall: 0.5198
+> f1_score: 0.5796
+> accuracy: 0.7257
+> worst_exam: 0.4129
+> best_exam: 0.2568
+> mean_time_ms: 0.2256
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4753
+> recall: 0.5362
+> f1_score: 0.5039
+> accuracy: 0.6160
+> worst_exam: 0.5595
+> best_exam: 0.2559
+> mean_time_ms: 0.1618
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4572
+> recall: 0.5669
+> f1_score: 0.5062
+> accuracy: 0.5977
+> worst_exam: 0.5560
+> best_exam: 0.2723
+> mean_time_ms: 0.1497
+Took 56.368902921676636 to test with 161 test cases
+Testing with 171 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4486
+> recall: 0.7133
+> f1_score: 0.5508
+> accuracy: 0.5767
+> worst_exam: 0.5792
+> best_exam: 0.2908
+> mean_time_ms: 0.8271
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4144
+> recall: 0.7788
+> f1_score: 0.5410
+> accuracy: 0.5192
+> worst_exam: 0.6530
+> best_exam: 0.3001
+> mean_time_ms: 333.8938
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6596
+> recall: 0.5202
+> f1_score: 0.5816
+> accuracy: 0.7278
+> worst_exam: 0.4090
+> best_exam: 0.2561
+> mean_time_ms: 0.2413
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4752
+> recall: 0.5347
+> f1_score: 0.5032
+> accuracy: 0.6160
+> worst_exam: 0.5588
+> best_exam: 0.2561
+> mean_time_ms: 0.1753
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4584
+> recall: 0.5663
+> f1_score: 0.5066
+> accuracy: 0.5988
+> worst_exam: 0.5536
+> best_exam: 0.2717
+> mean_time_ms: 0.1614
+Took 81.61673307418823 to test with 171 test cases
+Testing with 181 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4486
+> recall: 0.7077
+> f1_score: 0.5491
+> accuracy: 0.5773
+> worst_exam: 0.5777
+> best_exam: 0.2907
+> mean_time_ms: 0.8647
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4124
+> recall: 0.7751
+> f1_score: 0.5383
+> accuracy: 0.5164
+> worst_exam: 0.6547
+> best_exam: 0.3007
+> mean_time_ms: 333.4664
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6599
+> recall: 0.5194
+> f1_score: 0.5813
+> accuracy: 0.7278
+> worst_exam: 0.4082
+> best_exam: 0.2566
+> mean_time_ms: 0.2537
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4758
+> recall: 0.5339
+> f1_score: 0.5032
+> accuracy: 0.6165
+> worst_exam: 0.5579
+> best_exam: 0.2563
+> mean_time_ms: 0.1854
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4593
+> recall: 0.5641
+> f1_score: 0.5063
+> accuracy: 0.5999
+> worst_exam: 0.5533
+> best_exam: 0.2712
+> mean_time_ms: 0.1708
+Took 57.429121017456055 to test with 181 test cases
+Testing with 191 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4535
+> recall: 0.7169
+> f1_score: 0.5556
+> accuracy: 0.5828
+> worst_exam: 0.5740
+> best_exam: 0.2906
+> mean_time_ms: 0.9043
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4141
+> recall: 0.7831
+> f1_score: 0.5418
+> accuracy: 0.5181
+> worst_exam: 0.6538
+> best_exam: 0.3012
+> mean_time_ms: 337.4644
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6626
+> recall: 0.5188
+> f1_score: 0.5820
+> accuracy: 0.7289
+> worst_exam: 0.4061
+> best_exam: 0.2568
+> mean_time_ms: 0.2659
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4775
+> recall: 0.5328
+> f1_score: 0.5036
+> accuracy: 0.6180
+> worst_exam: 0.5574
+> best_exam: 0.2550
+> mean_time_ms: 0.1947
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4601
+> recall: 0.5635
+> f1_score: 0.5066
+> accuracy: 0.6007
+> worst_exam: 0.5513
+> best_exam: 0.2708
+> mean_time_ms: 0.1791
+Took 72.44364857673645 to test with 191 test cases
+Testing with 201 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4533
+> recall: 0.7106
+> f1_score: 0.5535
+> accuracy: 0.5830
+> worst_exam: 0.5725
+> best_exam: 0.2905
+> mean_time_ms: 0.9255
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4122
+> recall: 0.7789
+> f1_score: 0.5391
+> accuracy: 0.5156
+> worst_exam: 0.6551
+> best_exam: 0.3017
+> mean_time_ms: 334.1757
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6626
+> recall: 0.5177
+> f1_score: 0.5812
+> accuracy: 0.7287
+> worst_exam: 0.4056
+> best_exam: 0.2572
+> mean_time_ms: 0.2737
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4775
+> recall: 0.5319
+> f1_score: 0.5033
+> accuracy: 0.6180
+> worst_exam: 0.5567
+> best_exam: 0.2552
+> mean_time_ms: 0.2010
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4607
+> recall: 0.5613
+> f1_score: 0.5061
+> accuracy: 0.6014
+> worst_exam: 0.5511
+> best_exam: 0.2703
+> mean_time_ms: 0.1851
+Took 47.56737279891968 to test with 201 test cases
+Testing with 211 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4569
+> recall: 0.7188
+> f1_score: 0.5587
+> accuracy: 0.5869
+> worst_exam: 0.5697
+> best_exam: 0.2910
+> mean_time_ms: 0.9605
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4156
+> recall: 0.7849
+> f1_score: 0.5434
+> accuracy: 0.5203
+> worst_exam: 0.6548
+> best_exam: 0.2992
+> mean_time_ms: 336.4217
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6649
+> recall: 0.5174
+> f1_score: 0.5819
+> accuracy: 0.7296
+> worst_exam: 0.4038
+> best_exam: 0.2574
+> mean_time_ms: 0.2817
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4775
+> recall: 0.5308
+> f1_score: 0.5028
+> accuracy: 0.6181
+> worst_exam: 0.5561
+> best_exam: 0.2555
+> mean_time_ms: 0.2064
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4613
+> recall: 0.5608
+> f1_score: 0.5062
+> accuracy: 0.6020
+> worst_exam: 0.5494
+> best_exam: 0.2700
+> mean_time_ms: 0.1901
+Took 67.25372076034546 to test with 211 test cases
+Testing with 221 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4573
+> recall: 0.7284
+> f1_score: 0.5619
+> accuracy: 0.5868
+> worst_exam: 0.5721
+> best_exam: 0.2909
+> mean_time_ms: 0.9909
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4170
+> recall: 0.7914
+> f1_score: 0.5462
+> accuracy: 0.5216
+> worst_exam: 0.6540
+> best_exam: 0.2997
+> mean_time_ms: 337.7485
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6643
+> recall: 0.5178
+> f1_score: 0.5820
+> accuracy: 0.7294
+> worst_exam: 0.4018
+> best_exam: 0.2577
+> mean_time_ms: 0.2906
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4778
+> recall: 0.5301
+> f1_score: 0.5026
+> accuracy: 0.6183
+> worst_exam: 0.5555
+> best_exam: 0.2557
+> mean_time_ms: 0.2127
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4615
+> recall: 0.5603
+> f1_score: 0.5061
+> accuracy: 0.6022
+> worst_exam: 0.5482
+> best_exam: 0.2696
+> mean_time_ms: 0.1956
+Took 64.5237398147583 to test with 221 test cases
+Testing with 231 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4572
+> recall: 0.7255
+> f1_score: 0.5609
+> accuracy: 0.5868
+> worst_exam: 0.5700
+> best_exam: 0.2908
+> mean_time_ms: 1.0122
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4152
+> recall: 0.7899
+> f1_score: 0.5443
+> accuracy: 0.5189
+> worst_exam: 0.6544
+> best_exam: 0.3002
+> mean_time_ms: 335.2605
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6657
+> recall: 0.5177
+> f1_score: 0.5825
+> accuracy: 0.7300
+> worst_exam: 0.4006
+> best_exam: 0.2578
+> mean_time_ms: 0.2985
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4779
+> recall: 0.5299
+> f1_score: 0.5025
+> accuracy: 0.6184
+> worst_exam: 0.5551
+> best_exam: 0.2559
+> mean_time_ms: 0.2183
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4618
+> recall: 0.5610
+> f1_score: 0.5066
+> accuracy: 0.6025
+> worst_exam: 0.5474
+> best_exam: 0.2693
+> mean_time_ms: 0.2008
+Took 49.60012221336365 to test with 231 test cases
+Testing with 241 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4574
+> recall: 0.7215
+> f1_score: 0.5599
+> accuracy: 0.5873
+> worst_exam: 0.5690
+> best_exam: 0.2908
+> mean_time_ms: 1.0548
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4137
+> recall: 0.7869
+> f1_score: 0.5423
+> accuracy: 0.5169
+> worst_exam: 0.6556
+> best_exam: 0.3006
+> mean_time_ms: 332.4719
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6672
+> recall: 0.5160
+> f1_score: 0.5820
+> accuracy: 0.7303
+> worst_exam: 0.4011
+> best_exam: 0.2580
+> mean_time_ms: 0.3062
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4780
+> recall: 0.5293
+> f1_score: 0.5023
+> accuracy: 0.6185
+> worst_exam: 0.5546
+> best_exam: 0.2561
+> mean_time_ms: 0.2240
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4625
+> recall: 0.5596
+> f1_score: 0.5065
+> accuracy: 0.6033
+> worst_exam: 0.5474
+> best_exam: 0.2690
+> mean_time_ms: 0.2063
+Took 47.247095823287964 to test with 241 test cases
+Testing with 251 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4608
+> recall: 0.7278
+> f1_score: 0.5643
+> accuracy: 0.5912
+> worst_exam: 0.5665
+> best_exam: 0.2907
+> mean_time_ms: 1.0883
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4163
+> recall: 0.7919
+> f1_score: 0.5457
+> accuracy: 0.5204
+> worst_exam: 0.6561
+> best_exam: 0.2979
+> mean_time_ms: 334.8796
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6677
+> recall: 0.5162
+> f1_score: 0.5823
+> accuracy: 0.7306
+> worst_exam: 0.3991
+> best_exam: 0.2581
+> mean_time_ms: 0.3146
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4780
+> recall: 0.5287
+> f1_score: 0.5021
+> accuracy: 0.6185
+> worst_exam: 0.5542
+> best_exam: 0.2563
+> mean_time_ms: 0.2303
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4629
+> recall: 0.5595
+> f1_score: 0.5066
+> accuracy: 0.6036
+> worst_exam: 0.5462
+> best_exam: 0.2687
+> mean_time_ms: 0.2124
+Took 69.6547486782074 to test with 251 test cases
+Testing with 261 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4634
+> recall: 0.7338
+> f1_score: 0.5681
+> accuracy: 0.5941
+> worst_exam: 0.5644
+> best_exam: 0.2911
+> mean_time_ms: 1.1222
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4189
+> recall: 0.7962
+> f1_score: 0.5490
+> accuracy: 0.5241
+> worst_exam: 0.6556
+> best_exam: 0.2960
+> mean_time_ms: 336.8362
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6681
+> recall: 0.5166
+> f1_score: 0.5827
+> accuracy: 0.7308
+> worst_exam: 0.3972
+> best_exam: 0.2583
+> mean_time_ms: 0.3237
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4782
+> recall: 0.5282
+> f1_score: 0.5019
+> accuracy: 0.6187
+> worst_exam: 0.5537
+> best_exam: 0.2564
+> mean_time_ms: 0.2371
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4635
+> recall: 0.5592
+> f1_score: 0.5069
+> accuracy: 0.6042
+> worst_exam: 0.5449
+> best_exam: 0.2685
+> mean_time_ms: 0.2188
+Took 68.3532407283783 to test with 261 test cases
+Testing with 271 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4629
+> recall: 0.7285
+> f1_score: 0.5661
+> accuracy: 0.5938
+> worst_exam: 0.5636
+> best_exam: 0.2910
+> mean_time_ms: 1.1447
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4171
+> recall: 0.7921
+> f1_score: 0.5465
+> accuracy: 0.5218
+> worst_exam: 0.6566
+> best_exam: 0.2965
+> mean_time_ms: 334.2379
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6693
+> recall: 0.5152
+> f1_score: 0.5822
+> accuracy: 0.7310
+> worst_exam: 0.3977
+> best_exam: 0.2584
+> mean_time_ms: 0.3316
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4769
+> recall: 0.5278
+> f1_score: 0.5010
+> accuracy: 0.6176
+> worst_exam: 0.5535
+> best_exam: 0.2576
+> mean_time_ms: 0.2428
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4627
+> recall: 0.5578
+> f1_score: 0.5058
+> accuracy: 0.6036
+> worst_exam: 0.5451
+> best_exam: 0.2693
+> mean_time_ms: 0.2244
+Took 47.54776120185852 to test with 271 test cases
+Testing with 281 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4659
+> recall: 0.7341
+> f1_score: 0.5700
+> accuracy: 0.5971
+> worst_exam: 0.5615
+> best_exam: 0.2909
+> mean_time_ms: 1.1794
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4182
+> recall: 0.7971
+> f1_score: 0.5485
+> accuracy: 0.5228
+> worst_exam: 0.6559
+> best_exam: 0.2970
+> mean_time_ms: 335.3402
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6709
+> recall: 0.5148
+> f1_score: 0.5826
+> accuracy: 0.7316
+> worst_exam: 0.3966
+> best_exam: 0.2585
+> mean_time_ms: 0.3402
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4767
+> recall: 0.5270
+> f1_score: 0.5006
+> accuracy: 0.6175
+> worst_exam: 0.5532
+> best_exam: 0.2578
+> mean_time_ms: 0.2494
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4632
+> recall: 0.5575
+> f1_score: 0.5060
+> accuracy: 0.6040
+> worst_exam: 0.5439
+> best_exam: 0.2690
+> mean_time_ms: 0.2305
+Took 64.91960430145264 to test with 281 test cases
+Testing with 291 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4655
+> recall: 0.7409
+> f1_score: 0.5717
+> accuracy: 0.5963
+> worst_exam: 0.5641
+> best_exam: 0.2909
+> mean_time_ms: 1.2139
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4187
+> recall: 0.8016
+> f1_score: 0.5501
+> accuracy: 0.5230
+> worst_exam: 0.6562
+> best_exam: 0.2975
+> mean_time_ms: 336.8929
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6723
+> recall: 0.5146
+> f1_score: 0.5830
+> accuracy: 0.7322
+> worst_exam: 0.3956
+> best_exam: 0.2586
+> mean_time_ms: 0.3489
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4767
+> recall: 0.5266
+> f1_score: 0.5004
+> accuracy: 0.6175
+> worst_exam: 0.5529
+> best_exam: 0.2579
+> mean_time_ms: 0.2563
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4635
+> recall: 0.5576
+> f1_score: 0.5062
+> accuracy: 0.6043
+> worst_exam: 0.5431
+> best_exam: 0.2688
+> mean_time_ms: 0.2369
+Took 68.02072429656982 to test with 291 test cases
+Testing with 301 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4651
+> recall: 0.7383
+> f1_score: 0.5707
+> accuracy: 0.5960
+> worst_exam: 0.5628
+> best_exam: 0.2908
+> mean_time_ms: 1.2367
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4172
+> recall: 0.7993
+> f1_score: 0.5483
+> accuracy: 0.5209
+> worst_exam: 0.6565
+> best_exam: 0.2979
+> mean_time_ms: 335.3838
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6714
+> recall: 0.5149
+> f1_score: 0.5828
+> accuracy: 0.7319
+> worst_exam: 0.3945
+> best_exam: 0.2588
+> mean_time_ms: 0.3576
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4768
+> recall: 0.5262
+> f1_score: 0.5003
+> accuracy: 0.6177
+> worst_exam: 0.5526
+> best_exam: 0.2580
+> mean_time_ms: 0.2626
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4635
+> recall: 0.5573
+> f1_score: 0.5061
+> accuracy: 0.6043
+> worst_exam: 0.5425
+> best_exam: 0.2686
+> mean_time_ms: 0.2427
+Took 51.99194145202637 to test with 301 test cases
+Testing with 311 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4676
+> recall: 0.7429
+> f1_score: 0.5739
+> accuracy: 0.5988
+> worst_exam: 0.5609
+> best_exam: 0.2908
+> mean_time_ms: 1.3000
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4177
+> recall: 0.8036
+> f1_score: 0.5497
+> accuracy: 0.5211
+> worst_exam: 0.6567
+> best_exam: 0.2984
+> mean_time_ms: 336.7462
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6718
+> recall: 0.5156
+> f1_score: 0.5834
+> accuracy: 0.7322
+> worst_exam: 0.3930
+> best_exam: 0.2590
+> mean_time_ms: 0.3662
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4771
+> recall: 0.5260
+> f1_score: 0.5004
+> accuracy: 0.6179
+> worst_exam: 0.5523
+> best_exam: 0.2580
+> mean_time_ms: 0.2693
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4642
+> recall: 0.5579
+> f1_score: 0.5068
+> accuracy: 0.6050
+> worst_exam: 0.5416
+> best_exam: 0.2684
+> mean_time_ms: 0.2491
+Took 67.72850513458252 to test with 311 test cases
+Testing with 321 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4675
+> recall: 0.7488
+> f1_score: 0.5756
+> accuracy: 0.5984
+> worst_exam: 0.5629
+> best_exam: 0.2907
+> mean_time_ms: 1.3345
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4186
+> recall: 0.8078
+> f1_score: 0.5514
+> accuracy: 0.5220
+> worst_exam: 0.6561
+> best_exam: 0.2987
+> mean_time_ms: 338.1198
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6709
+> recall: 0.5159
+> f1_score: 0.5833
+> accuracy: 0.7319
+> worst_exam: 0.3920
+> best_exam: 0.2592
+> mean_time_ms: 0.3751
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4771
+> recall: 0.5254
+> f1_score: 0.5001
+> accuracy: 0.6179
+> worst_exam: 0.5520
+> best_exam: 0.2581
+> mean_time_ms: 0.2762
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4643
+> recall: 0.5577
+> f1_score: 0.5067
+> accuracy: 0.6050
+> worst_exam: 0.5410
+> best_exam: 0.2682
+> mean_time_ms: 0.2555
+Took 68.20061087608337 to test with 321 test cases
+Testing with 331 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4698
+> recall: 0.7530
+> f1_score: 0.5786
+> accuracy: 0.6011
+> worst_exam: 0.5611
+> best_exam: 0.2906
+> mean_time_ms: 1.3737
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4194
+> recall: 0.8115
+> f1_score: 0.5530
+> accuracy: 0.5229
+> worst_exam: 0.6555
+> best_exam: 0.2991
+> mean_time_ms: 339.2895
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6723
+> recall: 0.5156
+> f1_score: 0.5836
+> accuracy: 0.7324
+> worst_exam: 0.3912
+> best_exam: 0.2593
+> mean_time_ms: 0.3844
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4773
+> recall: 0.5251
+> f1_score: 0.5000
+> accuracy: 0.6181
+> worst_exam: 0.5517
+> best_exam: 0.2581
+> mean_time_ms: 0.2835
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4647
+> recall: 0.5576
+> f1_score: 0.5069
+> accuracy: 0.6055
+> worst_exam: 0.5401
+> best_exam: 0.2680
+> mean_time_ms: 0.2621
+Took 67.65023708343506 to test with 331 test cases
+Testing with 341 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4720
+> recall: 0.7567
+> f1_score: 0.5814
+> accuracy: 0.6036
+> worst_exam: 0.5594
+> best_exam: 0.2906
+> mean_time_ms: 1.4495
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4198
+> recall: 0.8151
+> f1_score: 0.5542
+> accuracy: 0.5230
+> worst_exam: 0.6556
+> best_exam: 0.2994
+> mean_time_ms: 340.3883
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6738
+> recall: 0.5155
+> f1_score: 0.5841
+> accuracy: 0.7330
+> worst_exam: 0.3904
+> best_exam: 0.2593
+> mean_time_ms: 0.3931
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4775
+> recall: 0.5250
+> f1_score: 0.5001
+> accuracy: 0.6182
+> worst_exam: 0.5514
+> best_exam: 0.2582
+> mean_time_ms: 0.2907
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4652
+> recall: 0.5576
+> f1_score: 0.5073
+> accuracy: 0.6059
+> worst_exam: 0.5392
+> best_exam: 0.2678
+> mean_time_ms: 0.2685
+Took 67.7780933380127 to test with 341 test cases
+Testing with 351 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4740
+> recall: 0.7605
+> f1_score: 0.5840
+> accuracy: 0.6059
+> worst_exam: 0.5579
+> best_exam: 0.2905
+> mean_time_ms: 1.4863
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4215
+> recall: 0.8168
+> f1_score: 0.5561
+> accuracy: 0.5256
+> worst_exam: 0.6563
+> best_exam: 0.2973
+> mean_time_ms: 342.2912
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6729
+> recall: 0.5158
+> f1_score: 0.5840
+> accuracy: 0.7327
+> worst_exam: 0.3896
+> best_exam: 0.2595
+> mean_time_ms: 0.4028
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4775
+> recall: 0.5247
+> f1_score: 0.5000
+> accuracy: 0.6183
+> worst_exam: 0.5512
+> best_exam: 0.2583
+> mean_time_ms: 0.2983
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4656
+> recall: 0.5575
+> f1_score: 0.5074
+> accuracy: 0.6063
+> worst_exam: 0.5385
+> best_exam: 0.2677
+> mean_time_ms: 0.2755
+Took 72.74947452545166 to test with 351 test cases
+Testing with 361 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4755
+> recall: 0.7640
+> f1_score: 0.5862
+> accuracy: 0.6076
+> worst_exam: 0.5566
+> best_exam: 0.2908
+> mean_time_ms: 1.5549
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4230
+> recall: 0.8192
+> f1_score: 0.5579
+> accuracy: 0.5278
+> worst_exam: 0.6571
+> best_exam: 0.2953
+> mean_time_ms: 344.3971
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6742
+> recall: 0.5164
+> f1_score: 0.5848
+> accuracy: 0.7333
+> worst_exam: 0.3883
+> best_exam: 0.2594
+> mean_time_ms: 0.4116
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4776
+> recall: 0.5245
+> f1_score: 0.4999
+> accuracy: 0.6183
+> worst_exam: 0.5510
+> best_exam: 0.2583
+> mean_time_ms: 0.3049
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4660
+> recall: 0.5578
+> f1_score: 0.5078
+> accuracy: 0.6067
+> worst_exam: 0.5378
+> best_exam: 0.2675
+> mean_time_ms: 0.2814
+Took 74.55962181091309 to test with 361 test cases
+Testing with 371 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4774
+> recall: 0.7673
+> f1_score: 0.5886
+> accuracy: 0.6098
+> worst_exam: 0.5552
+> best_exam: 0.2908
+> mean_time_ms: 1.5894
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4237
+> recall: 0.8224
+> f1_score: 0.5592
+> accuracy: 0.5285
+> worst_exam: 0.6566
+> best_exam: 0.2958
+> mean_time_ms: 345.3866
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6746
+> recall: 0.5159
+> f1_score: 0.5847
+> accuracy: 0.7334
+> worst_exam: 0.3879
+> best_exam: 0.2594
+> mean_time_ms: 0.4198
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4786
+> recall: 0.5244
+> f1_score: 0.5004
+> accuracy: 0.6192
+> worst_exam: 0.5509
+> best_exam: 0.2576
+> mean_time_ms: 0.3113
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4663
+> recall: 0.5577
+> f1_score: 0.5079
+> accuracy: 0.6070
+> worst_exam: 0.5371
+> best_exam: 0.2674
+> mean_time_ms: 0.2872
+Took 68.25920486450195 to test with 371 test cases
+Testing with 381 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4747
+> recall: 0.7720
+> f1_score: 0.5879
+> accuracy: 0.6064
+> worst_exam: 0.5599
+> best_exam: 0.2907
+> mean_time_ms: 1.6250
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4254
+> recall: 0.8247
+> f1_score: 0.5613
+> accuracy: 0.5311
+> worst_exam: 0.6564
+> best_exam: 0.2940
+> mean_time_ms: 346.7250
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6743
+> recall: 0.5158
+> f1_score: 0.5845
+> accuracy: 0.7332
+> worst_exam: 0.3879
+> best_exam: 0.2595
+> mean_time_ms: 0.4287
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4787
+> recall: 0.5242
+> f1_score: 0.5004
+> accuracy: 0.6193
+> worst_exam: 0.5507
+> best_exam: 0.2576
+> mean_time_ms: 0.3181
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4666
+> recall: 0.5576
+> f1_score: 0.5081
+> accuracy: 0.6072
+> worst_exam: 0.5365
+> best_exam: 0.2672
+> mean_time_ms: 0.2930
+Took 70.79545211791992 to test with 381 test cases
+Testing with 391 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4765
+> recall: 0.7748
+> f1_score: 0.5901
+> accuracy: 0.6084
+> worst_exam: 0.5585
+> best_exam: 0.2907
+> mean_time_ms: 1.7959
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4260
+> recall: 0.8277
+> f1_score: 0.5625
+> accuracy: 0.5316
+> worst_exam: 0.6559
+> best_exam: 0.2945
+> mean_time_ms: 347.4307
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6755
+> recall: 0.5158
+> f1_score: 0.5849
+> accuracy: 0.7337
+> worst_exam: 0.3873
+> best_exam: 0.2595
+> mean_time_ms: 0.4370
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4797
+> recall: 0.5241
+> f1_score: 0.5009
+> accuracy: 0.6201
+> worst_exam: 0.5505
+> best_exam: 0.2570
+> mean_time_ms: 0.3243
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4669
+> recall: 0.5576
+> f1_score: 0.5082
+> accuracy: 0.6075
+> worst_exam: 0.5359
+> best_exam: 0.2671
+> mean_time_ms: 0.2986
+Took 67.90276980400085 to test with 391 test cases
+Testing with 401 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4782
+> recall: 0.7776
+> f1_score: 0.5922
+> accuracy: 0.6104
+> worst_exam: 0.5571
+> best_exam: 0.2907
+> mean_time_ms: 1.9044
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4275
+> recall: 0.8292
+> f1_score: 0.5642
+> accuracy: 0.5340
+> worst_exam: 0.6558
+> best_exam: 0.2929
+> mean_time_ms: 348.4906
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6767
+> recall: 0.5157
+> f1_score: 0.5853
+> accuracy: 0.7342
+> worst_exam: 0.3868
+> best_exam: 0.2595
+> mean_time_ms: 0.4446
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4798
+> recall: 0.5239
+> f1_score: 0.5009
+> accuracy: 0.6202
+> worst_exam: 0.5503
+> best_exam: 0.2570
+> mean_time_ms: 0.3302
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4673
+> recall: 0.5575
+> f1_score: 0.5084
+> accuracy: 0.6078
+> worst_exam: 0.5353
+> best_exam: 0.2670
+> mean_time_ms: 0.3039
+Took 70.65761590003967 to test with 401 test cases
+Testing with 411 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4750
+> recall: 0.7817
+> f1_score: 0.5909
+> accuracy: 0.6064
+> worst_exam: 0.5620
+> best_exam: 0.2909
+> mean_time_ms: 2.0745
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4286
+> recall: 0.8313
+> f1_score: 0.5656
+> accuracy: 0.5355
+> worst_exam: 0.6561
+> best_exam: 0.2918
+> mean_time_ms: 349.9821
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6777
+> recall: 0.5155
+> f1_score: 0.5856
+> accuracy: 0.7346
+> worst_exam: 0.3862
+> best_exam: 0.2596
+> mean_time_ms: 0.4525
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4799
+> recall: 0.5238
+> f1_score: 0.5009
+> accuracy: 0.6203
+> worst_exam: 0.5501
+> best_exam: 0.2571
+> mean_time_ms: 0.3367
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4676
+> recall: 0.5576
+> f1_score: 0.5086
+> accuracy: 0.6082
+> worst_exam: 0.5347
+> best_exam: 0.2669
+> mean_time_ms: 0.3098
+Took 74.33478569984436 to test with 411 test cases
+Testing with 421 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4766
+> recall: 0.7842
+> f1_score: 0.5929
+> accuracy: 0.6083
+> worst_exam: 0.5606
+> best_exam: 0.2909
+> mean_time_ms: 2.1719
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4300
+> recall: 0.8328
+> f1_score: 0.5672
+> accuracy: 0.5377
+> worst_exam: 0.6561
+> best_exam: 0.2903
+> mean_time_ms: 351.1227
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6787
+> recall: 0.5153
+> f1_score: 0.5858
+> accuracy: 0.7350
+> worst_exam: 0.3857
+> best_exam: 0.2596
+> mean_time_ms: 0.4600
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4808
+> recall: 0.5236
+> f1_score: 0.5013
+> accuracy: 0.6211
+> worst_exam: 0.5499
+> best_exam: 0.2565
+> mean_time_ms: 0.3431
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4679
+> recall: 0.5574
+> f1_score: 0.5087
+> accuracy: 0.6084
+> worst_exam: 0.5341
+> best_exam: 0.2667
+> mean_time_ms: 0.3153
+Took 71.95802164077759 to test with 421 test cases
+Testing with 431 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4781
+> recall: 0.7866
+> f1_score: 0.5947
+> accuracy: 0.6101
+> worst_exam: 0.5594
+> best_exam: 0.2908
+> mean_time_ms: 2.3018
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4301
+> recall: 0.8353
+> f1_score: 0.5678
+> accuracy: 0.5375
+> worst_exam: 0.6562
+> best_exam: 0.2908
+> mean_time_ms: 351.8377
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6795
+> recall: 0.5154
+> f1_score: 0.5862
+> accuracy: 0.7353
+> worst_exam: 0.3849
+> best_exam: 0.2593
+> mean_time_ms: 0.4680
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4808
+> recall: 0.5235
+> f1_score: 0.5012
+> accuracy: 0.6211
+> worst_exam: 0.5498
+> best_exam: 0.2565
+> mean_time_ms: 0.3495
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4681
+> recall: 0.5573
+> f1_score: 0.5088
+> accuracy: 0.6086
+> worst_exam: 0.5337
+> best_exam: 0.2666
+> mean_time_ms: 0.3213
+Took 69.57888102531433 to test with 431 test cases
+Testing with 441 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4778
+> recall: 0.7831
+> f1_score: 0.5935
+> accuracy: 0.6098
+> worst_exam: 0.5591
+> best_exam: 0.2908
+> mean_time_ms: 2.3956
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4290
+> recall: 0.8326
+> f1_score: 0.5662
+> accuracy: 0.5360
+> worst_exam: 0.6568
+> best_exam: 0.2913
+> mean_time_ms: 349.9927
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6801
+> recall: 0.5145
+> f1_score: 0.5859
+> accuracy: 0.7354
+> worst_exam: 0.3855
+> best_exam: 0.2593
+> mean_time_ms: 0.4750
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4808
+> recall: 0.5233
+> f1_score: 0.5012
+> accuracy: 0.6211
+> worst_exam: 0.5497
+> best_exam: 0.2566
+> mean_time_ms: 0.3551
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4683
+> recall: 0.5565
+> f1_score: 0.5086
+> accuracy: 0.6088
+> worst_exam: 0.5339
+> best_exam: 0.2665
+> mean_time_ms: 0.3264
+Took 49.5199089050293 to test with 441 test cases
+Testing with 451 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4772
+> recall: 0.7804
+> f1_score: 0.5922
+> accuracy: 0.6091
+> worst_exam: 0.5585
+> best_exam: 0.2907
+> mean_time_ms: 2.4921
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4278
+> recall: 0.8309
+> f1_score: 0.5648
+> accuracy: 0.5342
+> worst_exam: 0.6570
+> best_exam: 0.2917
+> mean_time_ms: 348.5138
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6804
+> recall: 0.5149
+> f1_score: 0.5862
+> accuracy: 0.7356
+> worst_exam: 0.3850
+> best_exam: 0.2590
+> mean_time_ms: 0.4824
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4809
+> recall: 0.5231
+> f1_score: 0.5011
+> accuracy: 0.6211
+> worst_exam: 0.5495
+> best_exam: 0.2567
+> mean_time_ms: 0.3608
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4680
+> recall: 0.5564
+> f1_score: 0.5084
+> accuracy: 0.6086
+> worst_exam: 0.5339
+> best_exam: 0.2664
+> mean_time_ms: 0.3314
+Took 52.121702909469604 to test with 451 test cases
+Testing with 461 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4786
+> recall: 0.7827
+> f1_score: 0.5940
+> accuracy: 0.6108
+> worst_exam: 0.5574
+> best_exam: 0.2907
+> mean_time_ms: 2.6050
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4279
+> recall: 0.8331
+> f1_score: 0.5654
+> accuracy: 0.5341
+> worst_exam: 0.6571
+> best_exam: 0.2921
+> mean_time_ms: 349.3808
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6818
+> recall: 0.5150
+> f1_score: 0.5868
+> accuracy: 0.7362
+> worst_exam: 0.3840
+> best_exam: 0.2587
+> mean_time_ms: 0.4908
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4810
+> recall: 0.5231
+> f1_score: 0.5011
+> accuracy: 0.6212
+> worst_exam: 0.5493
+> best_exam: 0.2568
+> mean_time_ms: 0.3676
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4683
+> recall: 0.5564
+> f1_score: 0.5086
+> accuracy: 0.6089
+> worst_exam: 0.5334
+> best_exam: 0.2663
+> mean_time_ms: 0.3376
+Took 70.8346335887909 to test with 461 test cases
+Testing with 471 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4777
+> recall: 0.7860
+> f1_score: 0.5942
+> accuracy: 0.6096
+> worst_exam: 0.5592
+> best_exam: 0.2909
+> mean_time_ms: 2.7109
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4288
+> recall: 0.8349
+> f1_score: 0.5666
+> accuracy: 0.5354
+> worst_exam: 0.6574
+> best_exam: 0.2912
+> mean_time_ms: 350.6171
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6819
+> recall: 0.5147
+> f1_score: 0.5867
+> accuracy: 0.7362
+> worst_exam: 0.3839
+> best_exam: 0.2587
+> mean_time_ms: 0.4988
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4810
+> recall: 0.5229
+> f1_score: 0.5011
+> accuracy: 0.6212
+> worst_exam: 0.5492
+> best_exam: 0.2568
+> mean_time_ms: 0.3740
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4684
+> recall: 0.5565
+> f1_score: 0.5086
+> accuracy: 0.6089
+> worst_exam: 0.5329
+> best_exam: 0.2664
+> mean_time_ms: 0.3431
+Took 74.1326277256012 to test with 471 test cases
+Testing with 481 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4790
+> recall: 0.7881
+> f1_score: 0.5959
+> accuracy: 0.6111
+> worst_exam: 0.5581
+> best_exam: 0.2909
+> mean_time_ms: 2.8181
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4291
+> recall: 0.8369
+> f1_score: 0.5673
+> accuracy: 0.5357
+> worst_exam: 0.6570
+> best_exam: 0.2916
+> mean_time_ms: 351.0399
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6826
+> recall: 0.5144
+> f1_score: 0.5867
+> accuracy: 0.7364
+> worst_exam: 0.3835
+> best_exam: 0.2587
+> mean_time_ms: 0.5068
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4817
+> recall: 0.5228
+> f1_score: 0.5014
+> accuracy: 0.6218
+> worst_exam: 0.5491
+> best_exam: 0.2563
+> mean_time_ms: 0.3801
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4686
+> recall: 0.5564
+> f1_score: 0.5087
+> accuracy: 0.6091
+> worst_exam: 0.5325
+> best_exam: 0.2663
+> mean_time_ms: 0.3486
+Took 67.79280638694763 to test with 481 test cases
+Testing with 491 test cases
+ASP Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.5400
+> recall: 0.9550
+> f1_score: 0.6899
+> accuracy: 0.6877
+> worst_exam: 0.6175
+> best_exam: 0.2000
+> mean_time_ms: 25096.1685
+Hypothesis Checker prediction results against Manual Diagnosis:
+> precision: 0.4785
+> recall: 0.7911
+> f1_score: 0.5963
+> accuracy: 0.6103
+> worst_exam: 0.5597
+> best_exam: 0.2909
+> mean_time_ms: 2.9193
+Prolog Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4292
+> recall: 0.8390
+> f1_score: 0.5679
+> accuracy: 0.5355
+> worst_exam: 0.6570
+> best_exam: 0.2920
+> mean_time_ms: 351.6060
+Tarantula Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.6832
+> recall: 0.5141
+> f1_score: 0.5867
+> accuracy: 0.7366
+> worst_exam: 0.3831
+> best_exam: 0.2588
+> mean_time_ms: 0.5149
+Ochiai Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4817
+> recall: 0.5226
+> f1_score: 0.5013
+> accuracy: 0.6218
+> worst_exam: 0.5490
+> best_exam: 0.2564
+> mean_time_ms: 0.3863
+McCon Diagnosis prediction results against Manual Diagnosis:
+> precision: 0.4687
+> recall: 0.5563
+> f1_score: 0.5087
+> accuracy: 0.6092
+> worst_exam: 0.5321
+> best_exam: 0.2662
+> mean_time_ms: 0.3542
+Took 69.21864628791809 to test with 491 test cases
